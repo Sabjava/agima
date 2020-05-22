@@ -1,6 +1,11 @@
 <!DOCTYPE html>
-<!-- saved from url=(0176)https://translate.googleusercontent.com/translate_c?depth=1&pto=aue&rurl=translate.google.com&sl=ru&sp=nmt4&tl=en&u=https://www.agima.ru/&usg=ALkJrhi49_-4QlDPHy7Z6QcUB3oX4ckaew -->
-<html lang="en" class="bx-core bx-no-touch bx-retina bx-chrome bx-mac translated-ltr"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><script type="text/javascript" async="" src="./analytics.js"></script><script async="" src="./tag.js"></script><script src="./2148473215163129" async=""></script><script async="" src="./fbevents.js"></script><script type="text/javascript" async="" src="./ba.js"></script><script async="" src="./gtm.js"></script><script>(function(){/*
+<!-- saved from url=(0176)https://translateqq.googleusercontent.com/translateqq_c?depth=1&pto=aue&rurl=translateqq.google.com&sl=ru&sp=nmt4&tl=en&u=https://www.agima.ru/&usg=ALkJrhi49_-4QlDPHy7Z6QcUB3oX4ckaew -->
+<html lang="en" class="bx-core bx-no-touch bx-retina bx-chrome bx-mac translateqqd-ltr"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	
+<script type="text/javascript" async="" src="./analytics.js"></script><script async="" src="./tag.js"></script><script src="./2148473215163129" async=""></script>
+<script async="" src="./fbevents.js"></script><script type="text/javascript" async="" src="./ba.js"></script><script async="" src="./gtm.js"></script>
+
+<script>(function(){/*
 
  Copyright The Closure Library Authors.
  SPDX-License-Identifier: Apache-2.0
@@ -10,7 +15,27 @@
 d),c.tick("tbsd_","wtsrt_"))}try{a=null,window.chrome&&window.chrome.csi&&(a=Math.floor(window.chrome.csi().pageT),c&&0<b&&(c.tick("_tbnd",void 0,window.chrome.csi().startE),c.tick("tbnd_","_tbnd",b))),null==a&&window.gtbExternal&&(a=window.gtbExternal.pageT()),null==a&&window.external&&(a=window.external.pageT,c&&0<b&&(c.tick("_tbnd",void 0,window.external.startE),c.tick("tbnd_","_tbnd",b))),a&&(window.jstiming.pt=a)}catch(g){}})();}).call(window);
 </script>
 
-<script src="./translate_c.js"></script><script>_intlStrings._originalText = "Original Russian text:";_intlStrings._interfaceDirection="ltr";_intlStrings._interfaceAlign="left";_intlStrings._langpair="ru|en";_intlStrings._feedbackUrl="https://translate.google.com/translate_suggestion";_intlStrings._currentBy="Current translation on %1$s by %2$s";_intlStrings._unknown="unknown";_intlStrings._suggestTranslation="Contribute a better translation"  ;_intlStrings._submit="Contribute";_intlStrings._suggestThanks="Thank you for contributing your translation suggestion to Google Translate.";_intlStrings._reverse=false;_intlStrings._staticContentPath="https://www.gstatic.com/translate/infowindow/";</script><style type="text/css">.google-src-text {display: none !important} .google-src-active-text {display: block!important;color:black!important; font-size:12px!important;font-family:arial,sans-serif!important}.google-src-active-text a {font-size:12px!important}.google-src-active-text a:link {color:#00c!important;text-decoration:underline!important}.google-src-active-text a:visited {color:purple!important;text-decoration:underline!important}.google-src-active-text a:active {color:red!important;text-decoration:underline!important}</style><meta http-equiv="X-Translated-By" content="Google"><link href="https://www.agima.ru/" hreflang="ru" rel="alternate machine-translated-from">
+<script src="./translateqq_c.js"></script><script>_intlStrings._originalText = "Original Russian text:";_intlStrings._interfaceDirection="ltr";_intlStrings._interfaceAlign="left";_intlStrings._langpair="ru|en";_intlStrings._feedbackUrl="https://translateqq.google.com/translateqq_suggestion";_intlStrings._currentBy="Current translation on %1$s by %2$s";_intlStrings._unknown="unknown";_intlStrings._suggestTranslation="Contribute a better translation"  ;_intlStrings._submit="Contribute";_intlStrings._suggestThanks="Thank you for contributing your translation suggestion to Google translateqq.";_intlStrings._reverse=false;_intlStrings._staticContentPath="https://www.gstatic.com/translateqq/infowindow/";</script>
+
+<style type="text/css">
+.google-src-text {display: none !important} 
+.google-src-active-text {display: block!important;color:black!important; 	font-size:12px!important;font-family:arial,sans-serif!important}.google-src-active-text a 	{font-size:12px!important}.google-src-active-text a:link 	{color:#00c!important;text-decoration:underline!important}.google-src-active-text a:visited 	{color:purple!important;text-decoration:underline!important}.google-src-active-text a:active 	{color:red!important;text-decoration:underline!important}
+.goog-tooltip {
+    display: none !important;
+}
+.goog-tooltip:hover {
+    display: none !important;
+}
+.goog-text-highlight {
+    background-color: transparent !important;
+    border: none !important; 
+    box-shadow: none !important;
+}
+
+</style>
+
+
+<meta http-equiv="X-translateqqd-By" content="Google"><link href="https://www.agima.ru/" hreflang="ru" rel="alternate machine-translateqqd-from">
 
 <!--<base href="https://www.agima.ru/">--><base href=".">
     
@@ -37,10 +62,10 @@ d),c.tick("tbsd_","wtsrt_"))}try{a=null,window.chrome&&window.chrome.csi&&(a=Mat
 
 
 
-<link type="text/css" rel="stylesheet" charset="UTF-8" href="./translateelement.css"><script type="text/javascript" charset="UTF-8" src="./main.js"></script><script type="text/javascript" async="" src="./openapi.js"></script><script type="text/javascript" charset="UTF-8" src="./element_main.js"></script><link rel="stylesheet" type="text/css" href="./iw_sprite.css"></head>
-<body class=" "><iframe src="./translate_un.html" width="0" height="0" frameborder="0" style="width:0px;height:0px;border:0px;display:none;"></iframe>
+<link type="text/css" rel="stylesheet" charset="UTF-8" href="./translateqqelement.css"><script type="text/javascript" charset="UTF-8" src="./main.js"></script><script type="text/javascript" async="" src="./openapi.js"></script><script type="text/javascript" charset="UTF-8" src="./element_main.js"></script><link rel="stylesheet" type="text/css" href="./iw_sprite.css"></head>
+<body class=" "><iframe src="./translateqq_un.html" width="0" height="0" frameborder="0" style="width:0px;height:0px;border:0px;display:none;"></iframe>
     <!-- Google Tag Manager (noscript) -->
-    <noscript><iframe src=https://translate.googleusercontent.com/translate_c?depth=1&amp;pto=aue&amp;rurl=translate.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://www.googletagmanager.com/ns.html%3Fid%3DGTM-TRPC5S&amp;usg=ALkJrhhdHRyNWeXF8vnd4RrDBgTIQx_hiQ height=0 width=0 loading=lazy style=display:none;visibility:hidden></iframe></noscript>
+    <noscript><iframe src=https://translateqq.googleusercontent.com/translateqq_c?depth=1&amp;pto=aue&amp;rurl=translateqq.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://www.googletagmanager.com/ns.html%3Fid%3DGTM-TRPC5S&amp;usg=ALkJrhhdHRyNWeXF8vnd4RrDBgTIQx_hiQ height=0 width=0 loading=lazy style=display:none;visibility:hidden></iframe></noscript>
     <!-- End Google Tag Manager (noscript) -->
 
 <div id="panel"></div>
@@ -50,13 +75,13 @@ d),c.tick("tbsd_","wtsrt_"))}try{a=null,window.chrome&&window.chrome.csi&&(a=Mat
 <div class="first-screen js-first-screen is-ready is-hidden">
     <div class="first-screen__wrapper">
         <h1 class="first-screen__title"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;" class="">
-            Industry-leading  </font></font><br><span><i><font style="vertical-align: inherit;"><font style="vertical-align: inherit;" class="">digital integrator</font></font></i></span>        </h1>
+            Leading</font></font><br><span><i><font style="vertical-align: inherit;"><font style="vertical-align: inherit;" class="">Digital Solutions Integrator</font></font></i></span>        </h1>
 
         <div class="first-screen__tags">
             <span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">web</font></font></span>
 <span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">mobile</font></font></span>
 <span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">analytics</font></font></span>        </div>
-        <a class="first-screen__to-next-screen js-to-next-screen" href="https://translate.googleusercontent.com/translate_c?depth=1&amp;pto=aue&amp;rurl=translate.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://www.agima.ru/&amp;usg=ALkJrhi49_-4QlDPHy7Z6QcUB3oX4ckaew#"></a>
+        <a class="first-screen__to-next-screen js-to-next-screen" href="https://translateqq.googleusercontent.com/translateqq_c?depth=1&amp;pto=aue&amp;rurl=translateqq.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://www.agima.ru/&amp;usg=ALkJrhi49_-4QlDPHy7Z6QcUB3oX4ckaew#"></a>
     </div>
     
 </div>
@@ -68,39 +93,39 @@ d),c.tick("tbsd_","wtsrt_"))}try{a=null,window.chrome&&window.chrome.csi&&(a=Mat
     <div class="second-slider__mobile-scroll-wrapper js-mobile-scroll">
         <div class="second-slider__slides">
                         <div class="second-slider__slide js-slide">
-                <div class="second-slider__slide-title js-is-ready animation-wave is-ready"><a href="https://translate.googleusercontent.com/translate_c?depth=1&amp;pto=aue&amp;rurl=translate.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://www.agima.ru/approach/&amp;usg=ALkJrhgfOvzmm2cw196Djx4qiqEvlpD3IA"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Strategy</font></font></a></div>
-                <div class="second-slider__slide-subtitle js-is-ready animation-wave is-ready"><a href="https://translate.googleusercontent.com/translate_c?depth=1&amp;pto=aue&amp;rurl=translate.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://www.agima.ru/approach/&amp;usg=ALkJrhgfOvzmm2cw196Djx4qiqEvlpD3IA"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Strategic Product Definition & Roadmapping.</font></font></a></div>
+                <div class="second-slider__slide-title js-is-ready animation-wave is-ready"><a href="https://translateqq.googleusercontent.com/translateqq_c?depth=1&amp;pto=aue&amp;rurl=translateqq.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://www.agima.ru/approach/&amp;usg=ALkJrhgfOvzmm2cw196Djx4qiqEvlpD3IA"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Strategy</font></font></a></div>
+                <div class="second-slider__slide-subtitle js-is-ready animation-wave is-ready"><a href="https://translateqq.googleusercontent.com/translateqq_c?depth=1&amp;pto=aue&amp;rurl=translateqq.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://www.agima.ru/approach/&amp;usg=ALkJrhgfOvzmm2cw196Djx4qiqEvlpD3IA"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Strategic Product Definition & Roadmapping.</font></font></a></div>
                 <div class="second-slider__slide-desc js-is-ready animation-wave is-ready"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Our strategists will work with you to create a product that delivers. We will explore in-depth your business model,  audiences, product and  perform quantative and qualitive analysis.  These valuable insights will help us shape the success strategy of your business.</font></font></div>
 
                 <p class="second-slider__slide-index js-is-ready animation-wave is-ready"><i><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">1</font></font></i></p>
 
-                <a class="second-slider__slide-approach js-is-ready animation-wave is-ready" href="https://translate.googleusercontent.com/translate_c?depth=1&amp;pto=aue&amp;rurl=translate.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://www.agima.ru/approach/&amp;usg=ALkJrhgfOvzmm2cw196Djx4qiqEvlpD3IA"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+                <a class="second-slider__slide-approach js-is-ready animation-wave is-ready" href="https://translateqq.googleusercontent.com/translateqq_c?depth=1&amp;pto=aue&amp;rurl=translateqq.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://www.agima.ru/approach/&amp;usg=ALkJrhgfOvzmm2cw196Djx4qiqEvlpD3IA"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
                     Our approach                    </font></font><svg viewBox="0 0 38 12" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
                         <path d="M37.1093 6.53033C37.4022 6.23744 37.4022 5.76256 37.1093 5.46967L32.3363 0.696699C32.0434 0.403806 31.5685 0.403806 31.2756 0.696699C30.9828 0.989593 30.9828 1.46447 31.2756 1.75736L35.5183 6L31.2756 10.2426C30.9828 10.5355 30.9828 11.0104 31.2756 11.3033C31.5685 11.5962 32.0434 11.5962 32.3363 11.3033L37.1093 6.53033ZM0 6.75L36.5789 6.75V5.25L0 5.25L0 6.75Z"></path>
                     </svg>
                 </a>
             </div>
                         <div class="second-slider__slide js-slide">
-                <div class="second-slider__slide-title js-is-ready animation-wave is-ready"><a href="https://translate.googleusercontent.com/translate_c?depth=1&amp;pto=aue&amp;rurl=translate.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://www.agima.ru/approach/&amp;usg=ALkJrhgfOvzmm2cw196Djx4qiqEvlpD3IA"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Development</font></font></a></div>
-                <div class="second-slider__slide-subtitle js-is-ready animation-wave is-ready"><a href="https://translate.googleusercontent.com/translate_c?depth=1&amp;pto=aue&amp;rurl=translate.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://www.agima.ru/approach/&amp;usg=ALkJrhgfOvzmm2cw196Djx4qiqEvlpD3IA"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Enterprise-grade full-stack and mobile development by our team.</font></font></a></div>
+                <div class="second-slider__slide-title js-is-ready animation-wave is-ready"><a href="https://translateqq.googleusercontent.com/translateqq_c?depth=1&amp;pto=aue&amp;rurl=translateqq.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://www.agima.ru/approach/&amp;usg=ALkJrhgfOvzmm2cw196Djx4qiqEvlpD3IA"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Development</font></font></a></div>
+                <div class="second-slider__slide-subtitle js-is-ready animation-wave is-ready"><a href="https://translateqq.googleusercontent.com/translateqq_c?depth=1&amp;pto=aue&amp;rurl=translateqq.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://www.agima.ru/approach/&amp;usg=ALkJrhgfOvzmm2cw196Djx4qiqEvlpD3IA"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Enterprise-grade full-stack and mobile development by our team.</font></font></a></div>
                 <div class="second-slider__slide-desc js-is-ready animation-wave is-ready"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">One of the largest teams in Russia. </font><font style="vertical-align: inherit;">Several hundreds of years of experience in project management, design, development and engineering allow us to build  custom, enterprise-grade solutions using the latest technologies and programming languages</font></font></div>
 
                 <p class="second-slider__slide-index js-is-ready animation-wave is-ready"><i><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2</font></font></i></p>
 
-                <a class="second-slider__slide-approach js-is-ready animation-wave is-ready" href="https://translate.googleusercontent.com/translate_c?depth=1&amp;pto=aue&amp;rurl=translate.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://www.agima.ru/approach/&amp;usg=ALkJrhgfOvzmm2cw196Djx4qiqEvlpD3IA"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+                <a class="second-slider__slide-approach js-is-ready animation-wave is-ready" href="https://translateqq.googleusercontent.com/translateqq_c?depth=1&amp;pto=aue&amp;rurl=translateqq.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://www.agima.ru/approach/&amp;usg=ALkJrhgfOvzmm2cw196Djx4qiqEvlpD3IA"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
                     Our approach                    </font></font><svg viewBox="0 0 38 12" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
                         <path d="M37.1093 6.53033C37.4022 6.23744 37.4022 5.76256 37.1093 5.46967L32.3363 0.696699C32.0434 0.403806 31.5685 0.403806 31.2756 0.696699C30.9828 0.989593 30.9828 1.46447 31.2756 1.75736L35.5183 6L31.2756 10.2426C30.9828 10.5355 30.9828 11.0104 31.2756 11.3033C31.5685 11.5962 32.0434 11.5962 32.3363 11.3033L37.1093 6.53033ZM0 6.75L36.5789 6.75V5.25L0 5.25L0 6.75Z"></path>
                     </svg>
                 </a>
             </div>
                         <div class="second-slider__slide js-slide is-active">
-                <div class="second-slider__slide-title js-is-ready animation-wave is-ready"><a href="https://translate.googleusercontent.com/translate_c?depth=1&amp;pto=aue&amp;rurl=translate.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://www.agima.ru/approach/&amp;usg=ALkJrhgfOvzmm2cw196Djx4qiqEvlpD3IA"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Support</font></font></a></div>
-                <div class="second-slider__slide-subtitle js-is-ready animation-wave is-ready"><a href="https://translate.googleusercontent.com/translate_c?depth=1&amp;pto=aue&amp;rurl=translate.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://www.agima.ru/approach/&amp;usg=ALkJrhgfOvzmm2cw196Djx4qiqEvlpD3IA"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">The success of a digital product is the sum of small victories. </font></font></a></div>
+                <div class="second-slider__slide-title js-is-ready animation-wave is-ready"><a href="https://translateqq.googleusercontent.com/translateqq_c?depth=1&amp;pto=aue&amp;rurl=translateqq.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://www.agima.ru/approach/&amp;usg=ALkJrhgfOvzmm2cw196Djx4qiqEvlpD3IA"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Support</font></font></a></div>
+                <div class="second-slider__slide-subtitle js-is-ready animation-wave is-ready"><a href="https://translateqq.googleusercontent.com/translateqq_c?depth=1&amp;pto=aue&amp;rurl=translateqq.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://www.agima.ru/approach/&amp;usg=ALkJrhgfOvzmm2cw196Djx4qiqEvlpD3IA"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">The success of a digital product is the sum of small victories. </font></font></a></div>
                 <div class="second-slider__slide-desc js-is-ready animation-wave is-ready"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">We share the philosophy of HADI cycles, iterative development. </font><font style="vertical-align: inherit;">We test, analyze, offer optimal solutions. </font><font style="vertical-align: inherit;">We speak the language of business. </font><font style="vertical-align: inherit;">We focus on the user. </font><font style="vertical-align: inherit;">We offer SLA with financial responsibility</font></font></div>
 
                 <p class="second-slider__slide-index js-is-ready animation-wave is-ready"><i><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">3</font></font></i></p>
 
-                <a class="second-slider__slide-approach js-is-ready animation-wave is-ready" href="https://translate.googleusercontent.com/translate_c?depth=1&amp;pto=aue&amp;rurl=translate.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://www.agima.ru/approach/&amp;usg=ALkJrhgfOvzmm2cw196Djx4qiqEvlpD3IA"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+                <a class="second-slider__slide-approach js-is-ready animation-wave is-ready" href="https://translateqq.googleusercontent.com/translateqq_c?depth=1&amp;pto=aue&amp;rurl=translateqq.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://www.agima.ru/approach/&amp;usg=ALkJrhgfOvzmm2cw196Djx4qiqEvlpD3IA"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
                     Our approach                    </font></font><svg viewBox="0 0 38 12" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
                         <path d="M37.1093 6.53033C37.4022 6.23744 37.4022 5.76256 37.1093 5.46967L32.3363 0.696699C32.0434 0.403806 31.5685 0.403806 31.2756 0.696699C30.9828 0.989593 30.9828 1.46447 31.2756 1.75736L35.5183 6L31.2756 10.2426C30.9828 10.5355 30.9828 11.0104 31.2756 11.3033C31.5685 11.5962 32.0434 11.5962 32.3363 11.3033L37.1093 6.53033ZM0 6.75L36.5789 6.75V5.25L0 5.25L0 6.75Z"></path>
                     </svg>
@@ -108,13 +133,13 @@ d),c.tick("tbsd_","wtsrt_"))}try{a=null,window.chrome&&window.chrome.csi&&(a=Mat
             </div>
             
 
-            <a class="second-slider__approach" href="https://translate.googleusercontent.com/translate_c?depth=1&amp;pto=aue&amp;rurl=translate.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://www.agima.ru/approach/&amp;usg=ALkJrhgfOvzmm2cw196Djx4qiqEvlpD3IA"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+            <a class="second-slider__approach" href="https://translateqq.googleusercontent.com/translateqq_c?depth=1&amp;pto=aue&amp;rurl=translateqq.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://www.agima.ru/approach/&amp;usg=ALkJrhgfOvzmm2cw196Djx4qiqEvlpD3IA"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
     Our approach
     </font></font><svg viewBox="0 0 38 12" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
         <path d="M37.1093 6.53033C37.4022 6.23744 37.4022 5.76256 37.1093 5.46967L32.3363 0.696699C32.0434 0.403806 31.5685 0.403806 31.2756 0.696699C30.9828 0.989593 30.9828 1.46447 31.2756 1.75736L35.5183 6L31.2756 10.2426C30.9828 10.5355 30.9828 11.0104 31.2756 11.3033C31.5685 11.5962 32.0434 11.5962 32.3363 11.3033L37.1093 6.53033ZM0 6.75L36.5789 6.75V5.25L0 5.25L0 6.75Z"></path>
     </svg>
 </a>
-            <a class="second-slider__next-slide js-next" href="https://translate.googleusercontent.com/translate_c?depth=1&amp;pto=aue&amp;rurl=translate.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://www.agima.ru/&amp;usg=ALkJrhi49_-4QlDPHy7Z6QcUB3oX4ckaew#">
+            <a class="second-slider__next-slide js-next" href="https://translateqq.googleusercontent.com/translateqq_c?depth=1&amp;pto=aue&amp;rurl=translateqq.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://www.agima.ru/&amp;usg=ALkJrhi49_-4QlDPHy7Z6QcUB3oX4ckaew#">
                 <svg viewBox="0 0 61 16" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
                     <path d="M60.7071 8.70711C61.0976 8.31658 61.0976 7.68342 60.7071 7.29289L54.3431 0.928932C53.9526 0.538408 53.3195 0.538408 52.9289 0.928932C52.5384 1.31946 52.5384 1.95262 52.9289 2.34315L58.5858 8L52.9289 13.6569C52.5384 14.0474 52.5384 14.6805 52.9289 15.0711C53.3195 15.4616 53.9526 15.4616 54.3431 15.0711L60.7071 8.70711ZM0 9L60 9V7L0 7L0 9Z"></path>
                 </svg>
@@ -123,19 +148,19 @@ d),c.tick("tbsd_","wtsrt_"))}try{a=null,window.chrome&&window.chrome.csi&&(a=Mat
 
         <div class="second-slider__footer">
             <div class="second-slider__dots">
-                                <a class="second-slider__dots-link js-dot" href="https://translate.googleusercontent.com/translate_c?depth=1&amp;pto=aue&amp;rurl=translate.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://www.agima.ru/&amp;usg=ALkJrhi49_-4QlDPHy7Z6QcUB3oX4ckaew#"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+                                <a class="second-slider__dots-link js-dot" href="https://translateqq.googleusercontent.com/translateqq_c?depth=1&amp;pto=aue&amp;rurl=translateqq.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://www.agima.ru/&amp;usg=ALkJrhi49_-4QlDPHy7Z6QcUB3oX4ckaew#"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
                     Strategy                    </font></font><svg viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
                         <circle cx="8" cy="8" r="6" stroke-width="2.5"></circle>
                         <circle cx="8" cy="8" r="6" stroke-width="3" transform="rotate(-90 8 8)" stroke-dasharray="37.69911184307752 37.69911184307752" stroke-dashoffset="37.69911184307752"></circle>
                     </svg>
                 </a>
-                                <a class="second-slider__dots-link js-dot" href="https://translate.googleusercontent.com/translate_c?depth=1&amp;pto=aue&amp;rurl=translate.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://www.agima.ru/&amp;usg=ALkJrhi49_-4QlDPHy7Z6QcUB3oX4ckaew#"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+                                <a class="second-slider__dots-link js-dot" href="https://translateqq.googleusercontent.com/translateqq_c?depth=1&amp;pto=aue&amp;rurl=translateqq.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://www.agima.ru/&amp;usg=ALkJrhi49_-4QlDPHy7Z6QcUB3oX4ckaew#"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
                     Development                    </font></font><svg viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
                         <circle cx="8" cy="8" r="6" stroke-width="2.5"></circle>
                         <circle cx="8" cy="8" r="6" stroke-width="3" transform="rotate(-90 8 8)" stroke-dasharray="37.69911184307752 37.69911184307752" stroke-dashoffset="37.69911184307752"></circle>
                     </svg>
                 </a>
-                                <a class="second-slider__dots-link js-dot is-active" href="https://translate.googleusercontent.com/translate_c?depth=1&amp;pto=aue&amp;rurl=translate.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://www.agima.ru/&amp;usg=ALkJrhi49_-4QlDPHy7Z6QcUB3oX4ckaew#"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+                                <a class="second-slider__dots-link js-dot is-active" href="https://translateqq.googleusercontent.com/translateqq_c?depth=1&amp;pto=aue&amp;rurl=translateqq.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://www.agima.ru/&amp;usg=ALkJrhi49_-4QlDPHy7Z6QcUB3oX4ckaew#"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
                     Support                    </font></font><svg viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
                         <circle cx="8" cy="8" r="6" stroke-width="2.5"></circle>
                         <circle cx="8" cy="8" r="6" stroke-width="3" transform="rotate(-90 8 8)" stroke-dasharray="37.69911184307752 37.69911184307752" stroke-dashoffset="1.5487010682673272"></circle>
@@ -164,7 +189,7 @@ d),c.tick("tbsd_","wtsrt_"))}try{a=null,window.chrome&&window.chrome.csi&&(a=Mat
                         <h2 class="promo-projects__item-title"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Application and dashboard <br>Next Mobile</font></font></h2>
                         <div class="promo-projects__bg" style="background-color: #FF5500;"></div>
                         <div class="promo-projects__item-action">
-                            <a href="https://translate.googleusercontent.com/translate_c?depth=1&amp;pto=aue&amp;rurl=translate.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://www.agima.ru/projects/next_mobile/&amp;usg=ALkJrhiNagtpRK-i6i7RljIrfWX4RrQ5Hw" class="promo-projects__item-wrapper-link">
+                            <a href="https://translateqq.googleusercontent.com/translateqq_c?depth=1&amp;pto=aue&amp;rurl=translateqq.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://www.agima.ru/projects/next_mobile/&amp;usg=ALkJrhiNagtpRK-i6i7RljIrfWX4RrQ5Hw" class="promo-projects__item-wrapper-link">
                                 <div class="promo-projects__item-wrapper">
                                     <div class="promo-projects__item-action-title"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Application and dashboard <br>Next Mobil</font></font></div>
                                     <div class="promo-projects__item-action-desc"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Mobile application and dashboard for a telecom operator</font></font></div>
@@ -183,7 +208,7 @@ d),c.tick("tbsd_","wtsrt_"))}try{a=null,window.chrome&&window.chrome.csi&&(a=Mat
                         <h2 class="promo-projects__item-title"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MegaDisk <br>Cloud storage application</font></font></h2>
                         <div class="promo-projects__bg" style="background-color: #731982;"></div>
                         <div class="promo-projects__item-action">
-                            <a href="https://translate.googleusercontent.com/translate_c?depth=1&amp;pto=aue&amp;rurl=translate.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://www.agima.ru/projects/diskmegafon/&amp;usg=ALkJrhiYqnY83Q1rLHA7e5q2xIXBACfa0g" class="promo-projects__item-wrapper-link">
+                            <a href="https://translateqq.googleusercontent.com/translateqq_c?depth=1&amp;pto=aue&amp;rurl=translateqq.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://www.agima.ru/projects/diskmegafon/&amp;usg=ALkJrhiYqnY83Q1rLHA7e5q2xIXBACfa0g" class="promo-projects__item-wrapper-link">
                                 <div class="promo-projects__item-wrapper">
                                     <div class="promo-projects__item-action-title"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MegaDisk <br>Cloud storage application</font></font></div>
                                     <div class="promo-projects__item-action-desc"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Development of a cloud storage application</font></font></div>
@@ -202,7 +227,7 @@ d),c.tick("tbsd_","wtsrt_"))}try{a=null,window.chrome&&window.chrome.csi&&(a=Mat
                         <h2 class="promo-projects__item-title"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> Russkaya Gazeta <br>Website redesign</font></font></h2>
                         <div class="promo-projects__bg" style="background-color: #353C46;"></div>
                         <div class="promo-projects__item-action">
-                            <a href="https://translate.googleusercontent.com/translate_c?depth=1&amp;pto=aue&amp;rurl=translate.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://www.agima.ru/projects/rg/&amp;usg=ALkJrhiYnFprZyVddOoIk64SMmYM94n6AA" class="promo-projects__item-wrapper-link">
+                            <a href="https://translateqq.googleusercontent.com/translateqq_c?depth=1&amp;pto=aue&amp;rurl=translateqq.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://www.agima.ru/projects/rg/&amp;usg=ALkJrhiYnFprZyVddOoIk64SMmYM94n6AA" class="promo-projects__item-wrapper-link">
                                 <div class="promo-projects__item-wrapper">
                                     <div class="promo-projects__item-action-title"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Russkaya Gazeta <br>Website redesign</font></font></div>
                                     <div class="promo-projects__item-action-desc"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Design and development  of a Russian Federation's newspaper "Russkaya Gazeta" website</font></font></div>
@@ -223,7 +248,7 @@ d),c.tick("tbsd_","wtsrt_"))}try{a=null,window.chrome&&window.chrome.csi&&(a=Mat
                         <h2 class="promo-projects__item-title"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ozerki pharmacy chain <br>Website design</font></font></h2>
                         <div class="promo-projects__bg" style="background-color: #ED1C24;"></div>
                         <div class="promo-projects__item-action">
-                            <a href="https://translate.googleusercontent.com/translate_c?depth=1&amp;pto=aue&amp;rurl=translate.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://www.agima.ru/projects/ozerky/&amp;usg=ALkJrhhE8HLN6SsL0kqm6ytrI9Z3LhQJOg" class="promo-projects__item-wrapper-link">
+                            <a href="https://translateqq.googleusercontent.com/translateqq_c?depth=1&amp;pto=aue&amp;rurl=translateqq.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://www.agima.ru/projects/ozerky/&amp;usg=ALkJrhhE8HLN6SsL0kqm6ytrI9Z3LhQJOg" class="promo-projects__item-wrapper-link">
                                 <div class="promo-projects__item-wrapper">
                                     <div class="promo-projects__item-action-title"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ozerki pharmacy chain <br>Website design</font></font></div>
                                     <div class="promo-projects__item-action-desc"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Developed prototypes and a new design</font></font></div>
@@ -239,13 +264,13 @@ d),c.tick("tbsd_","wtsrt_"))}try{a=null,window.chrome&&window.chrome.csi&&(a=Mat
                 </div>
                                                                     <div class="promo-projects__item-wrap promo-projects__item-wrap--full-height js-is-ready animation-wave is-ready">
                     <div class="promo-projects__item js-adaptive-background-image js-lazy loaded" data-background-desktop="http://agima.ru/upload/iblock/7d1/7d12902f11ddb68597474f3d61fbcbdb.jpg" data-background-mobile="http://agima.ru/upload/iblock/7d1/7d12902f11ddb68597474f3d61fbcbdb.jpg" data-bg="http://agima.ru/upload/iblock/7d1/7d12902f11ddb68597474f3d61fbcbdb.jpg" data-ll-status="loaded" style="background-image: url(&quot;http://agima.ru/upload/iblock/7d1/7d12902f11ddb68597474f3d61fbcbdb.jpg&quot;);">
-                        <h2 class="promo-projects__item-title"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Pyaterochka <br>Mobile application </font></font></h2>
+                        <h2 class="promo-projects__item-title"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Pyaterochka <br>Loyalty program</font></font></h2>
                         <div class="promo-projects__bg" style="background-color: #BE140B;"></div>
 
                         <div class="promo-projects__item-action">
-                            <a href="https://translate.googleusercontent.com/translate_c?depth=1&amp;pto=aue&amp;rurl=translate.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://www.agima.ru/projects/pyaterochka/&amp;usg=ALkJrhhfDOmB-AmpR8NbI5UbUwmGLxbOQQ" class="promo-projects__item-wrapper-link">
+                            <a href="https://translateqq.googleusercontent.com/translateqq_c?depth=1&amp;pto=aue&amp;rurl=translateqq.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://www.agima.ru/projects/pyaterochka/&amp;usg=ALkJrhhfDOmB-AmpR8NbI5UbUwmGLxbOQQ" class="promo-projects__item-wrapper-link">
                                 <div class="promo-projects__item-wrapper">
-                                    <div class="promo-projects__item-action-title"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Pyaterochka <br>Mobile application</font></font></div>
+                                    <div class="promo-projects__item-action-title"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Pyaterochka <br>Loyalty program</font></font></div>
                                     <div class="promo-projects__item-action-desc"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Developed a mobile application</font></font></div>
                                                                             <div class="promo-projects__item-action-tags">
                                                                                             <span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Mobile app</font></font></span>
@@ -264,7 +289,7 @@ d),c.tick("tbsd_","wtsrt_"))}try{a=null,window.chrome&&window.chrome.csi&&(a=Mat
                                                                                             <span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">IOS</font></font></span>
                                                                                             <span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">QA</font></font></span>
                                                                                             <span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">SLA</font></font></span>
-                                                                                            <span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Security</font></font></span>
+                                                                                            <span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Safety</font></font></span>
                                                                                             <span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Devops</font></font></span>
                                                                                     </div>
                                                                     </div>
@@ -278,7 +303,7 @@ d),c.tick("tbsd_","wtsrt_"))}try{a=null,window.chrome&&window.chrome.csi&&(a=Mat
                         <div class="promo-projects__bg" style="background-color: #4FA646;"></div>
 
                         <div class="promo-projects__item-action">
-                            <a href="https://translate.googleusercontent.com/translate_c?depth=1&amp;pto=aue&amp;rurl=translate.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://www.agima.ru/projects/leroy-analytics/&amp;usg=ALkJrhgJDzqqpUU6QU5JqBlmpyRwdEaryQ" class="promo-projects__item-wrapper-link">
+                            <a href="https://translateqq.googleusercontent.com/translateqq_c?depth=1&amp;pto=aue&amp;rurl=translateqq.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://www.agima.ru/projects/leroy-analytics/&amp;usg=ALkJrhgJDzqqpUU6QU5JqBlmpyRwdEaryQ" class="promo-projects__item-wrapper-link">
                                 <div class="promo-projects__item-wrapper">
                                     <div class="promo-projects__item-action-title"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Leroy Merlin<br>Product analytics</font></font></div>
                                     <div class="promo-projects__item-action-desc"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Data collection and analysis</font></font></div>
@@ -296,7 +321,7 @@ d),c.tick("tbsd_","wtsrt_"))}try{a=null,window.chrome&&window.chrome.csi&&(a=Mat
                         <div class="promo-projects__bg" style="background-color: #004285;"></div>
 
                         <div class="promo-projects__item-action">
-                            <a href="https://translate.googleusercontent.com/translate_c?depth=1&amp;pto=aue&amp;rurl=translate.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://www.agima.ru/projects/ingosstrah/&amp;usg=ALkJrhjcT5qQ0V10j4TcsG5LzwpGlgw_qA" class="promo-projects__item-wrapper-link">
+                            <a href="https://translateqq.googleusercontent.com/translateqq_c?depth=1&amp;pto=aue&amp;rurl=translateqq.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://www.agima.ru/projects/ingosstrah/&amp;usg=ALkJrhjcT5qQ0V10j4TcsG5LzwpGlgw_qA" class="promo-projects__item-wrapper-link">
                                 <div class="promo-projects__item-wrapper">
                                     <div class="promo-projects__item-action-title"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;" class="">Ingosstrakh<br>Dashboard</font></font></div>
                                     <div class="promo-projects__item-action-desc"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Developed a personal account of the insured</font></font></div>
@@ -322,7 +347,7 @@ d),c.tick("tbsd_","wtsrt_"))}try{a=null,window.chrome&&window.chrome.csi&&(a=Mat
                 </div>
                                                 </div>
         <div class="promo-projects__archive-link">
-            <a href="https://translate.googleusercontent.com/translate_c?depth=1&amp;pto=aue&amp;rurl=translate.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://www.agima.ru/projects/&amp;usg=ALkJrhjwsB4hqtdk0ukqLcN38HopIa5asA"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+            <a href="https://translateqq.googleusercontent.com/translateqq_c?depth=1&amp;pto=aue&amp;rurl=translateqq.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://www.agima.ru/projects/&amp;usg=ALkJrhjwsB4hqtdk0ukqLcN38HopIa5asA"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
                 all projects
                 </font></font><span>
                     <svg viewBox="0 0 38 12">
@@ -336,15 +361,15 @@ d),c.tick("tbsd_","wtsrt_"))}try{a=null,window.chrome&&window.chrome.csi&&(a=Mat
 
     <div class="promo-about js-promo-about js-is-ready animation-wave">
         <div class="promo-about__top-desc js-is-ready animation-wave"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;" class="">
-			We have been working with enterprise-grade products since 2006 and have been supporting many of them for all these years        </font></font></div>
+			We have been working with enterprise-grade products since 2006 and support many of them since then        </font></font></div>
 
         <div class="promo-about__white-bg js-is-ready animation-wave js-no-animate-counters">
             <div class="promo-about__lead-row">
                 <div class="promo-about__lead">
                     <div class="promo-about__title js-is-ready animation-wave"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
-                        About company                    </font></font></div>
+                        About Us                    </font></font></div>
                     <div class="promo-about__desc js-is-ready animation-wave"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
-                        AGIMA is an end-to-end mobile and web development company with its own </font></font><a href="https://translate.googleusercontent.com/translate_c?depth=1&amp;pto=aue&amp;rurl=translate.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://www.agima.ru/approach/&amp;usg=ALkJrhgfOvzmm2cw196Djx4qiqEvlpD3IA" target="_blank"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">product analytics, design, web and mobile development teams.</font></font></a>                    </div>
+                        AGIMA is an end-to-end mobile and web development company with its own </font></font><a href="https://translateqq.googleusercontent.com/translateqq_c?depth=1&amp;pto=aue&amp;rurl=translateqq.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://www.agima.ru/approach/&amp;usg=ALkJrhgfOvzmm2cw196Djx4qiqEvlpD3IA" target="_blank"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">product analytics, design, web and mobile development teams.</font></font></a>                    </div>
                 </div>
 
                 <div class="promo-about__video-wrapper js-is-ready animation-wave">
@@ -354,7 +379,7 @@ d),c.tick("tbsd_","wtsrt_"))}try{a=null,window.chrome&&window.chrome.csi&&(a=Mat
     <div class="video__popup is-hidden js-video-popup">
         <iframe class="js-lazy" data-src="https://player.vimeo.com/video/89691086" width="640" height="360" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" data-ll-status="observed" src="./saved_resource(1).html"></iframe>
     </div>
-    <p><a href="https://translate.googleusercontent.com/translate_c?depth=1&amp;pto=aue&amp;rurl=translate.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://vimeo.com/325861195&amp;usg=ALkJrhiJOPUTPk7Y4IjS4lahgE9Lij43ug"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">a360-re-1</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> from </font></font><a href="https://translate.googleusercontent.com/translate_c?depth=1&amp;pto=aue&amp;rurl=translate.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://vimeo.com/agima&amp;usg=ALkJrhi2lrncL8m6FOiai0AtelGPS_M_9A"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">AGIMA</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> on </font></font><a href="https://translate.googleusercontent.com/translate_c?depth=1&amp;pto=aue&amp;rurl=translate.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://vimeo.com/&amp;usg=ALkJrhgGufgprK64p2WIxkxcdq0GS9nfhg"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Vimeo</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> .</font></font></p>
+    <p><a href="https://translateqq.googleusercontent.com/translateqq_c?depth=1&amp;pto=aue&amp;rurl=translateqq.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://vimeo.com/325861195&amp;usg=ALkJrhiJOPUTPk7Y4IjS4lahgE9Lij43ug"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">a360-re-1</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> from </font></font><a href="https://translateqq.googleusercontent.com/translateqq_c?depth=1&amp;pto=aue&amp;rurl=translateqq.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://vimeo.com/agima&amp;usg=ALkJrhi2lrncL8m6FOiai0AtelGPS_M_9A"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">AGIMA</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> on </font></font><a href="https://translateqq.googleusercontent.com/translateqq_c?depth=1&amp;pto=aue&amp;rurl=translateqq.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://vimeo.com/&amp;usg=ALkJrhgGufgprK64p2WIxkxcdq0GS9nfhg"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Vimeo</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> .</font></font></p>
 
     <div class="video__overlay js-lazy loaded" data-bg="http://agima.ru/upload/agima/b1f/b1f896c48dfcdf3a685ce5ed00f98b04.jpg" data-ll-status="loaded" style="background-image: url(&quot;http://agima.ru/upload/agima/b1f/b1f896c48dfcdf3a685ce5ed00f98b04.jpg&quot;);">
         <div class="video__overlay-hover js-lazy loaded" data-bg="http://agima.ru/upload/agima/c36/c367ce1c9a00be12a0e4bf28b980f02b.jpg" data-ll-status="loaded" style="background-image: url(&quot;http://agima.ru/upload/agima/c36/c367ce1c9a00be12a0e4bf28b980f02b.jpg&quot;);"></div>
@@ -374,10 +399,10 @@ d),c.tick("tbsd_","wtsrt_"))}try{a=null,window.chrome&&window.chrome.csi&&(a=Mat
                             <span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">full-time </font></font><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">employees</font></font></span>
                         </div>
                         <div class="promo-about__numbers-employees-desc js-is-ready animation-wave"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
-                            All specialists </font></font><a href="https://translate.googleusercontent.com/translate_c?depth=1&amp;pto=aue&amp;rurl=translate.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://www.agima.ru/approach/&amp;usg=ALkJrhgfOvzmm2cw196Djx4qiqEvlpD3IA"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">you need</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> , from Art Director to the QA engineer are in our staff. </font><font style="vertical-align: inherit;">We hire the best professionals on the market. </font><font style="vertical-align: inherit;">It's expensive, but worth it.
+                            Every specialist </font></font><a href="https://translateqq.googleusercontent.com/translateqq_c?depth=1&amp;pto=aue&amp;rurl=translateqq.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://www.agima.ru/approach/&amp;usg=ALkJrhgfOvzmm2cw196Djx4qiqEvlpD3IA"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">you need</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">, from Art Director to the QA engineer are in our staff. </font><font style="vertical-align: inherit;">We hire the best professionals on the market. </font><font style="vertical-align: inherit;">It's expensive, but worth it.
 
                             </font></font><div class="promo-about__numbers-employees-desc-more">
-                                <a href="https://translate.googleusercontent.com/translate_c?depth=1&amp;pto=aue&amp;rurl=translate.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://www.agima.ru/about/&amp;usg=ALkJrhiq9QLQpOdesQxGBrl1LvMsCTbp2w"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+                                <a href="https://translateqq.googleusercontent.com/translateqq_c?depth=1&amp;pto=aue&amp;rurl=translateqq.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://www.agima.ru/about/&amp;usg=ALkJrhiq9QLQpOdesQxGBrl1LvMsCTbp2w"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
                                     About Us
                                     </font></font><span>
                                         <svg viewBox="0 0 38 12" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
@@ -414,12 +439,12 @@ d),c.tick("tbsd_","wtsrt_"))}try{a=null,window.chrome&&window.chrome.csi&&(a=Mat
             <p class="promo-about__footer-slogan js-is-ready animation-wave"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">We believe that data-driven development is not possible without using the most powerful digital analytics systems.</font></font></p>
             <div>
                 <div class="promo-about__footer-item js-is-ready animation-wave">
-                    <a href="https://translate.googleusercontent.com/translate_c?depth=1&amp;pto=aue&amp;rurl=translate.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://360.agima.ru/&amp;usg=ALkJrhhz4ycCkVRQM79VnjwymoL6kmmAlA" target="_blank"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Data analysis</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> with premium tools:
+                    <a href="https://translateqq.googleusercontent.com/translateqq_c?depth=1&amp;pto=aue&amp;rurl=translateqq.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://360.agima.ru/&amp;usg=ALkJrhhz4ycCkVRQM79VnjwymoL6kmmAlA" target="_blank"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Data analysis</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> with premium tools:
                 </font></font></div>
-                <a class="promo-about__footer-item js-is-ready animation-wave" target="_blank" href="https://translate.googleusercontent.com/translate_c?depth=1&amp;pto=aue&amp;rurl=translate.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://www.agima.ru/piwik/&amp;usg=ALkJrhg8tp-5tjArbTBKJiQ9W5kQEDWkkg">
+                <a class="promo-about__footer-item js-is-ready animation-wave" target="_blank" href="https://translateqq.googleusercontent.com/translateqq_c?depth=1&amp;pto=aue&amp;rurl=translateqq.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://www.agima.ru/piwik/&amp;usg=ALkJrhg8tp-5tjArbTBKJiQ9W5kQEDWkkg">
         <img alt="Piwik pro" class="js-lazy loaded" data-src="http://agima.ru/upload/iblock/bfb/bfb9910fa719008d14cd9e4fd9dc56ce.png" data-ll-status="loaded" src="./bfb9910fa719008d14cd9e4fd9dc56ce.png">
     </a>
-    <a class="promo-about__footer-item js-is-ready animation-wave" target="_blank" href="https://translate.googleusercontent.com/translate_c?depth=1&amp;pto=aue&amp;rurl=translate.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://360.agima.ru/&amp;usg=ALkJrhhz4ycCkVRQM79VnjwymoL6kmmAlA">
+    <a class="promo-about__footer-item js-is-ready animation-wave" target="_blank" href="https://translateqq.googleusercontent.com/translateqq_c?depth=1&amp;pto=aue&amp;rurl=translateqq.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://360.agima.ru/&amp;usg=ALkJrhhz4ycCkVRQM79VnjwymoL6kmmAlA">
         <img alt="Google" class="js-lazy loaded" data-src="http://agima.ru/upload/iblock/699/6994f1c824ce1bc2e5ec9b7d9721f541.png" data-ll-status="loaded" src="./6994f1c824ce1bc2e5ec9b7d9721f541.png">
     </a>
             </div>
@@ -430,7 +455,7 @@ d),c.tick("tbsd_","wtsrt_"))}try{a=null,window.chrome&&window.chrome.csi&&(a=Mat
         <div class="trust-us__top-desc js-is-ready animation-wave"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
             We were rated  among top digital-production companies for the several consecutive years 
 
-</font></font><a class="trust-us__top-desc-link" href="https://translate.googleusercontent.com/translate_c?depth=1&amp;pto=aue&amp;rurl=translate.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://www.agima.ru/about/&amp;usg=ALkJrhiq9QLQpOdesQxGBrl1LvMsCTbp2w#ratings">
+</font></font><a class="trust-us__top-desc-link" href="https://translateqq.googleusercontent.com/translateqq_c?depth=1&amp;pto=aue&amp;rurl=translateqq.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://www.agima.ru/about/&amp;usg=ALkJrhiq9QLQpOdesQxGBrl1LvMsCTbp2w#ratings">
     <svg viewBox="0 0 50 16" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
         <path d="M49.7071 8.70711C50.0976 8.31658 50.0976 7.68342 49.7071 7.29289L43.3431 0.928932C42.9526 0.538408 42.3195 0.538408 41.9289 0.928932C41.5384 1.31946 41.5384 1.95262 41.9289 2.34315L47.5858 8L41.9289 13.6569C41.5384 14.0474 41.5384 14.6805 41.9289 15.0711C42.3195 15.4616 42.9526 15.4616 43.3431 15.0711L49.7071 8.70711ZM0 9L49 9V7L0 7L0 9Z"></path>
     </svg>
@@ -478,7 +503,7 @@ d),c.tick("tbsd_","wtsrt_"))}try{a=null,window.chrome&&window.chrome.csi&&(a=Mat
             <div class="trust-us__clients-title js-is-ready animation-wave"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
                 They trust us            </font></font></div>
                         <div class="trust-us__clients-logos js-trust-us-logos">
-    <div class="trust-us__container js-trust-us-container" style="transform: translateY(480.801px);">
+    <div class="trust-us__container js-trust-us-container" style="transform: translateqqY(480.801px);">
                     <span class="js-lazy loaded" data-bg="http://agima.ru/upload/resize_cache/iblock/125/400_170_0/125a42002ae1468c5118381dabab40bd.png" data-ll-status="loaded" style="background-image: url(&quot;http://agima.ru/upload/resize_cache/iblock/125/400_170_0/125a42002ae1468c5118381dabab40bd.png&quot;);"></span>
                     <span class="js-lazy loaded" data-bg="http://agima.ru/upload/resize_cache/iblock/d02/400_170_0/d021387568d1be32473f0be957c1bf5f.png" data-ll-status="loaded" style="background-image: url(&quot;http://agima.ru/upload/resize_cache/iblock/d02/400_170_0/d021387568d1be32473f0be957c1bf5f.png&quot;);"></span>
                     <span class="js-lazy loaded" data-bg="http://agima.ru/upload/resize_cache/iblock/cb2/400_170_0/cb2e86d1487dd6b97de50643c192da4e.png" data-ll-status="loaded" style="background-image: url(&quot;http://agima.ru/upload/resize_cache/iblock/cb2/400_170_0/cb2e86d1487dd6b97de50643c192da4e.png&quot;);"></span>
@@ -513,12 +538,12 @@ d),c.tick("tbsd_","wtsrt_"))}try{a=null,window.chrome&&window.chrome.csi&&(a=Mat
             </div>
 </div>            <p class="trust-us__slogan js-is-ready animation-wave"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;" class="">
                 We worked with the largest insurance companies, banks, retail companies, automobile brands, government projects, e-Commerce and media.            </font></font></p>
-            <a class="trust-us__clients-become-client js-is-ready animation-wave" href="https://translate.googleusercontent.com/translate_c?depth=1&amp;pto=aue&amp;rurl=translate.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://www.agima.ru/clients/&amp;usg=ALkJrhh7lgAB4_a9ymE9Ml5wbzHO269fmg"><i><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">+</font></font></i><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> Become a customer</font></font></a>
+            <a class="trust-us__clients-become-client js-is-ready animation-wave" href="https://translateqq.googleusercontent.com/translateqq_c?depth=1&amp;pto=aue&amp;rurl=translateqq.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://www.agima.ru/clients/&amp;usg=ALkJrhh7lgAB4_a9ymE9Ml5wbzHO269fmg"><i><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">+</font></font></i><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> Become a customer</font></font></a>
         </div>
 
         <div class="trust-us__bottom-desc js-is-ready animation-wave"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
             We are defining the market of digital services and the internet industry with our special projects
-			<font color="red> <span class="notranslate">Если бы я не знала HTML я бы ни в жизнь не поняла, что здесь 4 плавающих слайда!!! Наверно надо  дать понять, что тут  такой контент</span></font>
+			<font color="red> <span class="notranslateqq">Если бы я не знала HTML я бы ни в жизнь не поняла, что здесь 4 плавающих слайда!!! Наверно надо  дать понять, что тут  такой контент</span></font>
 		       </font></font></div>
     </div>
 
@@ -540,7 +565,7 @@ d),c.tick("tbsd_","wtsrt_"))}try{a=null,window.chrome&&window.chrome.csi&&(a=Mat
             <div class="special-projects__slide-desc"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Are you a digital agency owner and have some problems in your business? </font><font style="vertical-align: inherit;">We know how to solve 90% of them.</font></font></div>
 
             <div class="special-projects__slide-more">
-                <a href="https://translate.googleusercontent.com/translate_c?depth=1&amp;pto=aue&amp;rurl=translate.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=http://executive.agima.ru/&amp;usg=ALkJrhggI1OIEpqpiI5dlBgdFbDtuVyAyg"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+                <a href="https://translateqq.googleusercontent.com/translateqq_c?depth=1&amp;pto=aue&amp;rurl=translateqq.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=http://executive.agima.ru/&amp;usg=ALkJrhggI1OIEpqpiI5dlBgdFbDtuVyAyg"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
                     To learn more                    </font></font><span>
                         <svg viewBox="0 0 38 12" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
                             <path d="M37.1093 6.53033C37.4022 6.23744 37.4022 5.76256 37.1093 5.46967L32.3363 0.696699C32.0434 0.403806 31.5685 0.403806 31.2756 0.696699C30.9828 0.989593 30.9828 1.46447 31.2756 1.75736L35.5183 6L31.2756 10.2426C30.9828 10.5355 30.9828 11.0104 31.2756 11.3033C31.5685 11.5962 32.0434 11.5962 32.3363 11.3033L37.1093 6.53033ZM0 6.75L36.5789 6.75V5.25L0 5.25L0 6.75Z"></path>
@@ -586,7 +611,7 @@ d),c.tick("tbsd_","wtsrt_"))}try{a=null,window.chrome&&window.chrome.csi&&(a=Mat
             <div class="special-projects__slide-desc"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">If we do not have available resources to implement your project, we will offer you a choice of contractors. </font><font style="vertical-align: inherit;">We fully control the progress of their work and are responsible for the result.</font></font></div>
 
             <div class="special-projects__slide-more">
-                <a href="https://translate.googleusercontent.com/translate_c?depth=1&amp;pto=aue&amp;rurl=translate.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://agima.partners/&amp;usg=ALkJrhiesWY67E0w73SyL8binL-oDk3vZw"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+                <a href="https://translateqq.googleusercontent.com/translateqq_c?depth=1&amp;pto=aue&amp;rurl=translateqq.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://agima.partners/&amp;usg=ALkJrhiesWY67E0w73SyL8binL-oDk3vZw"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
                     To learn more                    </font></font><span>
                         <svg viewBox="0 0 38 12" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
                             <path d="M37.1093 6.53033C37.4022 6.23744 37.4022 5.76256 37.1093 5.46967L32.3363 0.696699C32.0434 0.403806 31.5685 0.403806 31.2756 0.696699C30.9828 0.989593 30.9828 1.46447 31.2756 1.75736L35.5183 6L31.2756 10.2426C30.9828 10.5355 30.9828 11.0104 31.2756 11.3033C31.5685 11.5962 32.0434 11.5962 32.3363 11.3033L37.1093 6.53033ZM0 6.75L36.5789 6.75V5.25L0 5.25L0 6.75Z"></path>
@@ -632,7 +657,7 @@ d),c.tick("tbsd_","wtsrt_"))}try{a=null,window.chrome&&window.chrome.csi&&(a=Mat
             <div class="special-projects__slide-desc"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Let the sport drive your work! </font><font style="vertical-align: inherit;">The largest sports festival of the IT industry included in the Russian Book of Records</font></font></div>
 
             <div class="special-projects__slide-more">
-                <a href="https://translate.googleusercontent.com/translate_c?depth=1&amp;pto=aue&amp;rurl=translate.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://runit.digital/&amp;usg=ALkJrhg5OZS_1Fd8JvHNG-opkmi2JRaA2w"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+                <a href="https://translateqq.googleusercontent.com/translateqq_c?depth=1&amp;pto=aue&amp;rurl=translateqq.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://runit.digital/&amp;usg=ALkJrhg5OZS_1Fd8JvHNG-opkmi2JRaA2w"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
                     To learn more                    </font></font><span>
                         <svg viewBox="0 0 38 12" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
                             <path d="M37.1093 6.53033C37.4022 6.23744 37.4022 5.76256 37.1093 5.46967L32.3363 0.696699C32.0434 0.403806 31.5685 0.403806 31.2756 0.696699C30.9828 0.989593 30.9828 1.46447 31.2756 1.75736L35.5183 6L31.2756 10.2426C30.9828 10.5355 30.9828 11.0104 31.2756 11.3033C31.5685 11.5962 32.0434 11.5962 32.3363 11.3033L37.1093 6.53033ZM0 6.75L36.5789 6.75V5.25L0 5.25L0 6.75Z"></path>
@@ -678,7 +703,7 @@ d),c.tick("tbsd_","wtsrt_"))}try{a=null,window.chrome&&window.chrome.csi&&(a=Mat
             <div class="special-projects__slide-desc"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">We help aspiring agencies and studios to become leaders in their segment</font></font></div>
 
             <div class="special-projects__slide-more">
-                <a href="https://translate.googleusercontent.com/translate_c?depth=1&amp;pto=aue&amp;rurl=translate.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://agima.partners/boost&amp;usg=ALkJrhhyEKFBXHprwIdl4TrGTxKLhdVkhQ"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+                <a href="https://translateqq.googleusercontent.com/translateqq_c?depth=1&amp;pto=aue&amp;rurl=translateqq.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://agima.partners/boost&amp;usg=ALkJrhhyEKFBXHprwIdl4TrGTxKLhdVkhQ"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
                     To learn more                    </font></font><span>
                         <svg viewBox="0 0 38 12" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
                             <path d="M37.1093 6.53033C37.4022 6.23744 37.4022 5.76256 37.1093 5.46967L32.3363 0.696699C32.0434 0.403806 31.5685 0.403806 31.2756 0.696699C30.9828 0.989593 30.9828 1.46447 31.2756 1.75736L35.5183 6L31.2756 10.2426C30.9828 10.5355 30.9828 11.0104 31.2756 11.3033C31.5685 11.5962 32.0434 11.5962 32.3363 11.3033L37.1093 6.53033ZM0 6.75L36.5789 6.75V5.25L0 5.25L0 6.75Z"></path>
@@ -720,10 +745,10 @@ d),c.tick("tbsd_","wtsrt_"))}try{a=null,window.chrome&&window.chrome.csi&&(a=Mat
 </div>
 
 <div class="special-projects__dots">
-        <a class="js-dot is-active" href="https://translate.googleusercontent.com/translate_c?depth=1&amp;pto=aue&amp;rurl=translate.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://www.agima.ru/&amp;usg=ALkJrhi49_-4QlDPHy7Z6QcUB3oX4ckaew#"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">executive</font></font></a>
-        <a class="js-dot" href="https://translate.googleusercontent.com/translate_c?depth=1&amp;pto=aue&amp;rurl=translate.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://www.agima.ru/&amp;usg=ALkJrhi49_-4QlDPHy7Z6QcUB3oX4ckaew#"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">partners</font></font></a>
-        <a class="js-dot" href="https://translate.googleusercontent.com/translate_c?depth=1&amp;pto=aue&amp;rurl=translate.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://www.agima.ru/&amp;usg=ALkJrhi49_-4QlDPHy7Z6QcUB3oX4ckaew#"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">runit</font></font></a>
-        <a class="js-dot" href="https://translate.googleusercontent.com/translate_c?depth=1&amp;pto=aue&amp;rurl=translate.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://www.agima.ru/&amp;usg=ALkJrhi49_-4QlDPHy7Z6QcUB3oX4ckaew#"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">boost</font></font></a>
+        <a class="js-dot is-active" href="https://translateqq.googleusercontent.com/translateqq_c?depth=1&amp;pto=aue&amp;rurl=translateqq.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://www.agima.ru/&amp;usg=ALkJrhi49_-4QlDPHy7Z6QcUB3oX4ckaew#"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">executive</font></font></a>
+        <a class="js-dot" href="https://translateqq.googleusercontent.com/translateqq_c?depth=1&amp;pto=aue&amp;rurl=translateqq.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://www.agima.ru/&amp;usg=ALkJrhi49_-4QlDPHy7Z6QcUB3oX4ckaew#"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">partners</font></font></a>
+        <a class="js-dot" href="https://translateqq.googleusercontent.com/translateqq_c?depth=1&amp;pto=aue&amp;rurl=translateqq.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://www.agima.ru/&amp;usg=ALkJrhi49_-4QlDPHy7Z6QcUB3oX4ckaew#"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">runit</font></font></a>
+        <a class="js-dot" href="https://translateqq.googleusercontent.com/translateqq_c?depth=1&amp;pto=aue&amp;rurl=translateqq.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://www.agima.ru/&amp;usg=ALkJrhi49_-4QlDPHy7Z6QcUB3oX4ckaew#"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">boost</font></font></a>
     </div>
             </div>
         </div>
@@ -734,7 +759,7 @@ d),c.tick("tbsd_","wtsrt_"))}try{a=null,window.chrome&&window.chrome.csi&&(a=Mat
 <div class="calendar__content js-is-ready animation-wave" data-is-ready-custom-view="1.4">
     <div class="calendar__content-header">
         <h2 class="calendar__content-title js-is-ready animation-wave"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Events</font></font></h2>
-        <a class="calendar__header-link js-is-ready animation-wave" href="https://translate.googleusercontent.com/translate_c?depth=1&amp;pto=aue&amp;rurl=translate.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://www.agima.ru/events/&amp;usg=ALkJrhhWxMr98waRhYzpi2-lr3r91cfFXw"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">We are at conferences</font></font></a>
+        <a class="calendar__header-link js-is-ready animation-wave" href="https://translateqq.googleusercontent.com/translateqq_c?depth=1&amp;pto=aue&amp;rurl=translateqq.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://www.agima.ru/events/&amp;usg=ALkJrhhWxMr98waRhYzpi2-lr3r91cfFXw"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">We are at conferences</font></font></a>
     </div>
                                     <div class="calendar__item js-is-ready animation-wave">
                 <div class="calendar__inner">
@@ -751,7 +776,7 @@ d),c.tick("tbsd_","wtsrt_"))}try{a=null,window.chrome&&window.chrome.csi&&(a=Mat
                         </div>
                                                                         </div>
 
-                                            <a href="https://translate.googleusercontent.com/translate_c?depth=1&amp;pto=aue&amp;rurl=translate.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://2020.rif.ru/&amp;usg=ALkJrhhSMERBrI5ulVSTc-5QGQtc7Op75w" target="_blank" class="calendar__theme">
+                                            <a href="https://translateqq.googleusercontent.com/translateqq_c?depth=1&amp;pto=aue&amp;rurl=translateqq.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://2020.rif.ru/&amp;usg=ALkJrhhSMERBrI5ulVSTc-5QGQtc7Op75w" target="_blank" class="calendar__theme">
                             <div class="calendar__theme-title"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">RIF Design 2020</font></font></div>
                             <div class="calendar__theme-subtitle"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;" class="">
                                 Design Management: Creative Team Management&nbsp;                                </font></font><svg viewBox="0 0 38 12" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -780,7 +805,7 @@ d),c.tick("tbsd_","wtsrt_"))}try{a=null,window.chrome&&window.chrome.csi&&(a=Mat
                         </div>
                                                                         </div>
 
-                                            <a href="https://translate.googleusercontent.com/translate_c?depth=1&amp;pto=aue&amp;rurl=translate.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://2020.rif.ru/&amp;usg=ALkJrhhSMERBrI5ulVSTc-5QGQtc7Op75w" target="_blank" class="calendar__theme">
+                                            <a href="https://translateqq.googleusercontent.com/translateqq_c?depth=1&amp;pto=aue&amp;rurl=translateqq.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://2020.rif.ru/&amp;usg=ALkJrhhSMERBrI5ulVSTc-5QGQtc7Op75w" target="_blank" class="calendar__theme">
                             <div class="calendar__theme-title"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">RIF Analytics 2020</font></font></div>
                             <div class="calendar__theme-subtitle"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;" class="">
                                 Researching the complex product user experience                               </font></font><svg viewBox="0 0 38 12" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -809,7 +834,7 @@ d),c.tick("tbsd_","wtsrt_"))}try{a=null,window.chrome&&window.chrome.csi&&(a=Mat
                         </div>
                                                                         </div>
 
-                                            <a href="https://translate.googleusercontent.com/translate_c?depth=1&amp;pto=aue&amp;rurl=translate.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://2020.rif.ru/&amp;usg=ALkJrhhSMERBrI5ulVSTc-5QGQtc7Op75w" target="_blank" class="calendar__theme">
+                                            <a href="https://translateqq.googleusercontent.com/translateqq_c?depth=1&amp;pto=aue&amp;rurl=translateqq.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://2020.rif.ru/&amp;usg=ALkJrhhSMERBrI5ulVSTc-5QGQtc7Op75w" target="_blank" class="calendar__theme">
                             <div class="calendar__theme-title"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Mobile RIF 2020</font></font></div>
                             <div class="calendar__theme-subtitle"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;" class="">
                                 Super applications and trends in mobile platforms                                </font></font><svg viewBox="0 0 38 12" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -838,7 +863,7 @@ d),c.tick("tbsd_","wtsrt_"))}try{a=null,window.chrome&&window.chrome.csi&&(a=Mat
                         </div>
                                                                         </div>
 
-                                            <a href="https://translate.googleusercontent.com/translate_c?depth=1&amp;pto=aue&amp;rurl=translate.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://2020.rif.ru/&amp;usg=ALkJrhhSMERBrI5ulVSTc-5QGQtc7Op75w" target="_blank" class="calendar__theme">
+                                            <a href="https://translateqq.googleusercontent.com/translateqq_c?depth=1&amp;pto=aue&amp;rurl=translateqq.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://2020.rif.ru/&amp;usg=ALkJrhhSMERBrI5ulVSTc-5QGQtc7Op75w" target="_blank" class="calendar__theme">
                             <div class="calendar__theme-title"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">RIF: Information Security</font></font></div>
                             <div class="calendar__theme-subtitle"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;" class="">
                                 Improving web and mobile applications security of : options, steps, profit                                </font></font><svg viewBox="0 0 38 12" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -857,7 +882,7 @@ d),c.tick("tbsd_","wtsrt_"))}try{a=null,window.chrome&&window.chrome.csi&&(a=Mat
 
         <div class="blog-component blog-component--index js-blog-component js-is-ready animation-wave">
         <h2 class="blog-component__title"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
-    Blog    </font></font><a class="blog-component__title-link js-is-ready animation-wave" href="https://translate.googleusercontent.com/translate_c?depth=1&amp;pto=aue&amp;rurl=translate.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://www.agima.ru/blog/&amp;usg=ALkJrhgHNgera3Da1DTMrQHqRAt4IO9fMA">
+    Blog    </font></font><a class="blog-component__title-link js-is-ready animation-wave" href="https://translateqq.googleusercontent.com/translateqq_c?depth=1&amp;pto=aue&amp;rurl=translateqq.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://www.agima.ru/blog/&amp;usg=ALkJrhgHNgera3Da1DTMrQHqRAt4IO9fMA">
         <svg viewBox="0 0 50 16" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
             <path d="M49.7071 8.70711C50.0976 8.31658 50.0976 7.68342 49.7071 7.29289L43.3431 0.928932C42.9526 0.538408 42.3195 0.538408 41.9289 0.928932C41.5384 1.31946 41.5384 1.95262 41.9289 2.34315L47.5858 8L41.9289 13.6569C41.5384 14.0474 41.5384 14.6805 41.9289 15.0711C42.3195 15.4616 42.9526 15.4616 43.3431 15.0711L49.7071 8.70711ZM0 9L49 9V7L0 7L0 9Z"></path>
         </svg>
@@ -866,49 +891,49 @@ d),c.tick("tbsd_","wtsrt_"))}try{a=null,window.chrome&&window.chrome.csi&&(a=Mat
 
 <div class="blog-component__list js-slider js-is-ready animation-wave">
                         <div class="blog-component__cart js-slide">
-                <a href="https://translate.googleusercontent.com/translate_c?depth=1&amp;pto=aue&amp;rurl=translate.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://www.agima.ru/blog/razrabotka/bezopasnost-prilozheniy-ili-kak-vnedrit-security-v-zakaznuyu-razrabotku-lichnyy-opyt-agima/&amp;usg=ALkJrhipqBwjbGdWWnhaCPgKlQWRF7a3-g" class="blog-component__media js-lazy js-is-ready animation-wave loaded" data-bg="http://agima.ru/upload/resize_cache/iblock/b87/700_700_0/b8710d6847f5c753fd8637f5b4367a72.jpg" data-ll-status="loaded" style="background-image: url(&quot;http://agima.ru/upload/resize_cache/iblock/b87/700_700_0/b8710d6847f5c753fd8637f5b4367a72.jpg&quot;);"></a>
+                <a href="https://translateqq.googleusercontent.com/translateqq_c?depth=1&amp;pto=aue&amp;rurl=translateqq.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://www.agima.ru/blog/razrabotka/bezopasnost-prilozheniy-ili-kak-vnedrit-security-v-zakaznuyu-razrabotku-lichnyy-opyt-agima/&amp;usg=ALkJrhipqBwjbGdWWnhaCPgKlQWRF7a3-g" class="blog-component__media js-lazy js-is-ready animation-wave loaded" data-bg="http://agima.ru/upload/resize_cache/iblock/b87/700_700_0/b8710d6847f5c753fd8637f5b4367a72.jpg" data-ll-status="loaded" style="background-image: url(&quot;http://agima.ru/upload/resize_cache/iblock/b87/700_700_0/b8710d6847f5c753fd8637f5b4367a72.jpg&quot;);"></a>
 
                 <div class="blog-component__content">
                     <div class="blog-component__event">
-                        <a href="https://translate.googleusercontent.com/translate_c?depth=1&amp;pto=aue&amp;rurl=translate.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://www.agima.ru/blog/razrabotka/bezopasnost-prilozheniy-ili-kak-vnedrit-security-v-zakaznuyu-razrabotku-lichnyy-opyt-agima/&amp;usg=ALkJrhipqBwjbGdWWnhaCPgKlQWRF7a3-g"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Development </font></font></a>
+                        <a href="https://translateqq.googleusercontent.com/translateqq_c?depth=1&amp;pto=aue&amp;rurl=translateqq.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://www.agima.ru/blog/razrabotka/bezopasnost-prilozheniy-ili-kak-vnedrit-security-v-zakaznuyu-razrabotku-lichnyy-opyt-agima/&amp;usg=ALkJrhipqBwjbGdWWnhaCPgKlQWRF7a3-g"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Development </font></font></a>
                                                     <span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">02 September 2019</font></font></span>
                                             </div>
                     <div class="blog-component__desc js-is-ready animation-wave">
-                        <a href="https://translate.googleusercontent.com/translate_c?depth=1&amp;pto=aue&amp;rurl=translate.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://www.agima.ru/blog/razrabotka/bezopasnost-prilozheniy-ili-kak-vnedrit-security-v-zakaznuyu-razrabotku-lichnyy-opyt-agima/&amp;usg=ALkJrhipqBwjbGdWWnhaCPgKlQWRF7a3-g"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Application Security, or How to Embed Security in Custom Development. </font><font style="vertical-align: inherit;">Personal experience at AGIMA</font></font></a>
+                        <a href="https://translateqq.googleusercontent.com/translateqq_c?depth=1&amp;pto=aue&amp;rurl=translateqq.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://www.agima.ru/blog/razrabotka/bezopasnost-prilozheniy-ili-kak-vnedrit-security-v-zakaznuyu-razrabotku-lichnyy-opyt-agima/&amp;usg=ALkJrhipqBwjbGdWWnhaCPgKlQWRF7a3-g"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Application Security, or How to Embed Security in Custom Development. </font><font style="vertical-align: inherit;">Personal experience at AGIMA</font></font></a>
                     </div>
-                    <a class="blog-component__author js-is-ready animation-wave" href="https://translate.googleusercontent.com/translate_c?depth=1&amp;pto=aue&amp;rurl=translate.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://www.agima.ru/blog/blog_user/%3FAUTHOR_XML_ID%3D47&amp;usg=ALkJrhjQ53UsFE71SbDQA6E4--JnG3GjFQ">
+                    <a class="blog-component__author js-is-ready animation-wave" href="https://translateqq.googleusercontent.com/translateqq_c?depth=1&amp;pto=aue&amp;rurl=translateqq.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://www.agima.ru/blog/blog_user/%3FAUTHOR_XML_ID%3D47&amp;usg=ALkJrhjQ53UsFE71SbDQA6E4--JnG3GjFQ">
                         <p class="js-lazy loaded" data-bg="http://agima.ru/upload/resize_cache/uf/43e/100_100_0/43eb11a9b3449b20b708c40b4a45e1ef.jpg" data-ll-status="loaded" style="background-image: url(&quot;http://agima.ru/upload/resize_cache/uf/43e/100_100_0/43eb11a9b3449b20b708c40b4a45e1ef.jpg&quot;);"></p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
                         Alexey Klinov                     </font></font></a>
                 </div>
             </div>
                                 <div class="blog-component__cart js-slide">
-                <a href="https://translate.googleusercontent.com/translate_c?depth=1&amp;pto=aue&amp;rurl=translate.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://www.agima.ru/blog/menedzhment/kak-postroit-effektivnyy-upravlencheskiy-uchyet-i-poluchat-sverkhpribyl/&amp;usg=ALkJrhiyOdzwDUaMgj23nvK-_y6kn4fD6w" class="blog-component__media js-lazy js-is-ready animation-wave loaded" data-bg="http://agima.ru/upload/resize_cache/iblock/23b/700_700_0/23b2e4e49252b12c7669081a8ba6287a.png" data-ll-status="loaded" style="background-image: url(&quot;http://agima.ru/upload/resize_cache/iblock/23b/700_700_0/23b2e4e49252b12c7669081a8ba6287a.png&quot;);"></a>
+                <a href="https://translateqq.googleusercontent.com/translateqq_c?depth=1&amp;pto=aue&amp;rurl=translateqq.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://www.agima.ru/blog/menedzhment/kak-postroit-effektivnyy-upravlencheskiy-uchyet-i-poluchat-sverkhpribyl/&amp;usg=ALkJrhiyOdzwDUaMgj23nvK-_y6kn4fD6w" class="blog-component__media js-lazy js-is-ready animation-wave loaded" data-bg="http://agima.ru/upload/resize_cache/iblock/23b/700_700_0/23b2e4e49252b12c7669081a8ba6287a.png" data-ll-status="loaded" style="background-image: url(&quot;http://agima.ru/upload/resize_cache/iblock/23b/700_700_0/23b2e4e49252b12c7669081a8ba6287a.png&quot;);"></a>
 
                 <div class="blog-component__content">
                     <div class="blog-component__event">
-                        <a href="https://translate.googleusercontent.com/translate_c?depth=1&amp;pto=aue&amp;rurl=translate.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://www.agima.ru/blog/menedzhment/kak-postroit-effektivnyy-upravlencheskiy-uchyet-i-poluchat-sverkhpribyl/&amp;usg=ALkJrhiyOdzwDUaMgj23nvK-_y6kn4fD6w"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Management </font></font></a>
+                        <a href="https://translateqq.googleusercontent.com/translateqq_c?depth=1&amp;pto=aue&amp;rurl=translateqq.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://www.agima.ru/blog/menedzhment/kak-postroit-effektivnyy-upravlencheskiy-uchyet-i-poluchat-sverkhpribyl/&amp;usg=ALkJrhiyOdzwDUaMgj23nvK-_y6kn4fD6w"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Management </font></font></a>
                                                     <span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">November 19, 2019</font></font></span>
                                             </div>
                     <div class="blog-component__desc js-is-ready animation-wave">
-                        <a href="https://translate.googleusercontent.com/translate_c?depth=1&amp;pto=aue&amp;rurl=translate.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://www.agima.ru/blog/menedzhment/kak-postroit-effektivnyy-upravlencheskiy-uchyet-i-poluchat-sverkhpribyl/&amp;usg=ALkJrhiyOdzwDUaMgj23nvK-_y6kn4fD6w"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">How to build effective accounting and get superprofits</font></font></a>
+                        <a href="https://translateqq.googleusercontent.com/translateqq_c?depth=1&amp;pto=aue&amp;rurl=translateqq.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://www.agima.ru/blog/menedzhment/kak-postroit-effektivnyy-upravlencheskiy-uchyet-i-poluchat-sverkhpribyl/&amp;usg=ALkJrhiyOdzwDUaMgj23nvK-_y6kn4fD6w"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">How to build effective accounting and get superprofits</font></font></a>
                     </div>
-                    <a class="blog-component__author js-is-ready animation-wave" href="https://translate.googleusercontent.com/translate_c?depth=1&amp;pto=aue&amp;rurl=translate.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://www.agima.ru/blog/blog_user/%3FAUTHOR_XML_ID%3Dlobanov&amp;usg=ALkJrhgjuZQgJ3_ERjwne8dta4y4wCqN6Q">
+                    <a class="blog-component__author js-is-ready animation-wave" href="https://translateqq.googleusercontent.com/translateqq_c?depth=1&amp;pto=aue&amp;rurl=translateqq.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://www.agima.ru/blog/blog_user/%3FAUTHOR_XML_ID%3Dlobanov&amp;usg=ALkJrhgjuZQgJ3_ERjwne8dta4y4wCqN6Q">
                         <p class="js-lazy loaded" data-bg="http://agima.ru/upload/resize_cache/uf/b82/100_100_0/b824f9466368269b0d12c4006a0a949b.jpg" data-ll-status="loaded" style="background-image: url(&quot;http://agima.ru/upload/resize_cache/uf/b82/100_100_0/b824f9466368269b0d12c4006a0a949b.jpg&quot;);"></p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
                         Evgeny Lobanov                    </font></font></a>
                 </div>
             </div>
                                 <div class="blog-component__cart js-slide">
-                <a href="https://translate.googleusercontent.com/translate_c?depth=1&amp;pto=aue&amp;rurl=translate.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://www.agima.ru/blog/analytics/kak-postroit-protsess-razmetki-elektronnoy-torgovli-tak-chtoby-poluchat-vse-nuzhnye-dannye/&amp;usg=ALkJrhjEY4GKJZEJ_oKmm0cKKN-r7D4jtg" class="blog-component__media js-lazy js-is-ready animation-wave loaded" data-bg="http://agima.ru/upload/resize_cache/iblock/6ea/700_700_0/6ea969b7119c98d77998daddd3c7d21d.jpg" data-ll-status="loaded" style="background-image: url(&quot;http://agima.ru/upload/resize_cache/iblock/6ea/700_700_0/6ea969b7119c98d77998daddd3c7d21d.jpg&quot;);"></a>
+                <a href="https://translateqq.googleusercontent.com/translateqq_c?depth=1&amp;pto=aue&amp;rurl=translateqq.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://www.agima.ru/blog/analytics/kak-postroit-protsess-razmetki-elektronnoy-torgovli-tak-chtoby-poluchat-vse-nuzhnye-dannye/&amp;usg=ALkJrhjEY4GKJZEJ_oKmm0cKKN-r7D4jtg" class="blog-component__media js-lazy js-is-ready animation-wave loaded" data-bg="http://agima.ru/upload/resize_cache/iblock/6ea/700_700_0/6ea969b7119c98d77998daddd3c7d21d.jpg" data-ll-status="loaded" style="background-image: url(&quot;http://agima.ru/upload/resize_cache/iblock/6ea/700_700_0/6ea969b7119c98d77998daddd3c7d21d.jpg&quot;);"></a>
 
                 <div class="blog-component__content">
                     <div class="blog-component__event">
-                        <a href="https://translate.googleusercontent.com/translate_c?depth=1&amp;pto=aue&amp;rurl=translate.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://www.agima.ru/blog/analytics/kak-postroit-protsess-razmetki-elektronnoy-torgovli-tak-chtoby-poluchat-vse-nuzhnye-dannye/&amp;usg=ALkJrhjEY4GKJZEJ_oKmm0cKKN-r7D4jtg"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Analytics </font></font></a>
+                        <a href="https://translateqq.googleusercontent.com/translateqq_c?depth=1&amp;pto=aue&amp;rurl=translateqq.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://www.agima.ru/blog/analytics/kak-postroit-protsess-razmetki-elektronnoy-torgovli-tak-chtoby-poluchat-vse-nuzhnye-dannye/&amp;usg=ALkJrhjEY4GKJZEJ_oKmm0cKKN-r7D4jtg"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Analytics </font></font></a>
                                                     <span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">August 28, 2019</font></font></span>
                                             </div>
                     <div class="blog-component__desc js-is-ready animation-wave">
-                        <a href="https://translate.googleusercontent.com/translate_c?depth=1&amp;pto=aue&amp;rurl=translate.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://www.agima.ru/blog/analytics/kak-postroit-protsess-razmetki-elektronnoy-torgovli-tak-chtoby-poluchat-vse-nuzhnye-dannye/&amp;usg=ALkJrhjEY4GKJZEJ_oKmm0cKKN-r7D4jtg"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">How to build an e-commerce layout process to get all the data you need</font></font></a>
+                        <a href="https://translateqq.googleusercontent.com/translateqq_c?depth=1&amp;pto=aue&amp;rurl=translateqq.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://www.agima.ru/blog/analytics/kak-postroit-protsess-razmetki-elektronnoy-torgovli-tak-chtoby-poluchat-vse-nuzhnye-dannye/&amp;usg=ALkJrhjEY4GKJZEJ_oKmm0cKKN-r7D4jtg"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">How to build an e-commerce layout process to get all the data you need</font></font></a>
                     </div>
-                    <a class="blog-component__author js-is-ready animation-wave" href="https://translate.googleusercontent.com/translate_c?depth=1&amp;pto=aue&amp;rurl=translate.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://www.agima.ru/blog/blog_user/%3FAUTHOR_XML_ID%3Drudakov&amp;usg=ALkJrhiOQVD4PIn1YIDcNOdAzAnO5g37uQ">
+                    <a class="blog-component__author js-is-ready animation-wave" href="https://translateqq.googleusercontent.com/translateqq_c?depth=1&amp;pto=aue&amp;rurl=translateqq.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://www.agima.ru/blog/blog_user/%3FAUTHOR_XML_ID%3Drudakov&amp;usg=ALkJrhiOQVD4PIn1YIDcNOdAzAnO5g37uQ">
                         <p class="js-lazy loaded" data-bg="http://agima.ru/upload/resize_cache/uf/e36/100_100_0/e36fcac0ec27d386bd592d93f8098aff.jpg" data-ll-status="loaded" style="background-image: url(&quot;http://agima.ru/upload/resize_cache/uf/e36/100_100_0/e36fcac0ec27d386bd592d93f8098aff.jpg&quot;);"></p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
                         Oleg Rudakov                    </font></font></a>
                 </div>
@@ -916,13 +941,13 @@ d),c.tick("tbsd_","wtsrt_"))}try{a=null,window.chrome&&window.chrome.csi&&(a=Mat
             </div>
 
 <div class="blog-component__controls">
-    <a class="blog-component__arrow-left js-left" href="https://translate.googleusercontent.com/translate_c?depth=1&amp;pto=aue&amp;rurl=translate.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://www.agima.ru/&amp;usg=ALkJrhi49_-4QlDPHy7Z6QcUB3oX4ckaew#">
+    <a class="blog-component__arrow-left js-left" href="https://translateqq.googleusercontent.com/translateqq_c?depth=1&amp;pto=aue&amp;rurl=translateqq.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://www.agima.ru/&amp;usg=ALkJrhi49_-4QlDPHy7Z6QcUB3oX4ckaew#">
         <svg viewBox="0 0 38 12" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
             <path d="M37.1093 6.53033C37.4022 6.23744 37.4022 5.76256 37.1093 5.46967L32.3363 0.696699C32.0434 0.403806 31.5685 0.403806 31.2756 0.696699C30.9828 0.989593 30.9828 1.46447 31.2756 1.75736L35.5183 6L31.2756 10.2426C30.9828 10.5355 30.9828 11.0104 31.2756 11.3033C31.5685 11.5962 32.0434 11.5962 32.3363 11.3033L37.1093 6.53033ZM0 6.75L36.5789 6.75V5.25L0 5.25L0 6.75Z"></path>
         </svg>
     </a>
 
-    <a class="blog-component__arrow-right js-right" href="https://translate.googleusercontent.com/translate_c?depth=1&amp;pto=aue&amp;rurl=translate.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://www.agima.ru/&amp;usg=ALkJrhi49_-4QlDPHy7Z6QcUB3oX4ckaew#">
+    <a class="blog-component__arrow-right js-right" href="https://translateqq.googleusercontent.com/translateqq_c?depth=1&amp;pto=aue&amp;rurl=translateqq.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://www.agima.ru/&amp;usg=ALkJrhi49_-4QlDPHy7Z6QcUB3oX4ckaew#">
         <svg viewBox="0 0 38 12" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
             <path d="M37.1093 6.53033C37.4022 6.23744 37.4022 5.76256 37.1093 5.46967L32.3363 0.696699C32.0434 0.403806 31.5685 0.403806 31.2756 0.696699C30.9828 0.989593 30.9828 1.46447 31.2756 1.75736L35.5183 6L31.2756 10.2426C30.9828 10.5355 30.9828 11.0104 31.2756 11.3033C31.5685 11.5962 32.0434 11.5962 32.3363 11.3033L37.1093 6.53033ZM0 6.75L36.5789 6.75V5.25L0 5.25L0 6.75Z"></path>
         </svg>
@@ -944,16 +969,16 @@ d),c.tick("tbsd_","wtsrt_"))}try{a=null,window.chrome&&window.chrome.csi&&(a=Mat
 
             <div class="work-with-us__culture">
 
-                <a href="https://translate.googleusercontent.com/translate_c?depth=1&amp;pto=aue&amp;rurl=translate.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://www.agima.ru/careers/&amp;usg=ALkJrhgm7FJmFlxKKhcWntNL7QKGiWInhQ"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Our corporate culture</font></font></a>            </div>
+                <a href="https://translateqq.googleusercontent.com/translateqq_c?depth=1&amp;pto=aue&amp;rurl=translateqq.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://www.agima.ru/careers/&amp;usg=ALkJrhgm7FJmFlxKKhcWntNL7QKGiWInhQ"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Our corporate culture</font></font></a>            </div>
         </div>
                 <div class="work-with-us__right">
             <ul class="work-with-us__vacancies">
-            <li class="js-is-ready animation-wave"><a href="https://translate.googleusercontent.com/translate_c?depth=1&amp;pto=aue&amp;rurl=translate.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://www.agima.ru/careers/vacancy/lead_systems_analyst/&amp;usg=ALkJrhjm5Jn-M6j4_OcM4MziL7WK7fVEUw"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Leading Systems Analyst</font></font></a></li>
-            <li class="js-is-ready animation-wave"><a href="https://translate.googleusercontent.com/translate_c?depth=1&amp;pto=aue&amp;rurl=translate.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://www.agima.ru/careers/vacancy/Senior_android/&amp;usg=ALkJrhhR7mGKpgCiKBgtIAMfNMuHq8uVQA"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Lead Android Developer (Kotlin)</font></font></a></li>
-            <li class="js-is-ready animation-wave"><a href="https://translate.googleusercontent.com/translate_c?depth=1&amp;pto=aue&amp;rurl=translate.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://www.agima.ru/careers/vacancy/project_manager/&amp;usg=ALkJrhh35xCn03kja0OT9yiix0Omyj_Vfg"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Project manager</font></font></a></li>
+            <li class="js-is-ready animation-wave"><a href="https://translateqq.googleusercontent.com/translateqq_c?depth=1&amp;pto=aue&amp;rurl=translateqq.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://www.agima.ru/careers/vacancy/lead_systems_analyst/&amp;usg=ALkJrhjm5Jn-M6j4_OcM4MziL7WK7fVEUw"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Leading Systems Analyst</font></font></a></li>
+            <li class="js-is-ready animation-wave"><a href="https://translateqq.googleusercontent.com/translateqq_c?depth=1&amp;pto=aue&amp;rurl=translateqq.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://www.agima.ru/careers/vacancy/Senior_android/&amp;usg=ALkJrhhR7mGKpgCiKBgtIAMfNMuHq8uVQA"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Lead Android Developer (Kotlin)</font></font></a></li>
+            <li class="js-is-ready animation-wave"><a href="https://translateqq.googleusercontent.com/translateqq_c?depth=1&amp;pto=aue&amp;rurl=translateqq.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://www.agima.ru/careers/vacancy/project_manager/&amp;usg=ALkJrhh35xCn03kja0OT9yiix0Omyj_Vfg"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Project manager</font></font></a></li>
     </ul>
             <div class="work-with-us__more">
-                <a href="https://translate.googleusercontent.com/translate_c?depth=1&amp;pto=aue&amp;rurl=translate.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://www.agima.ru/careers/&amp;usg=ALkJrhgm7FJmFlxKKhcWntNL7QKGiWInhQ#jobs"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+                <a href="https://translateqq.googleusercontent.com/translateqq_c?depth=1&amp;pto=aue&amp;rurl=translateqq.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://www.agima.ru/careers/&amp;usg=ALkJrhgm7FJmFlxKKhcWntNL7QKGiWInhQ#jobs"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
     Other vacancies
     </font></font><span>
         <svg viewBox="0 0 38 12" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
@@ -973,26 +998,26 @@ d),c.tick("tbsd_","wtsrt_"))}try{a=null,window.chrome&&window.chrome.csi&&(a=Mat
     <div class="footer__wrapper">
         <div class="footer__menu">
 		<span>
-					<a href="https://translate.googleusercontent.com/translate_c?depth=1&amp;pto=aue&amp;rurl=translate.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://www.agima.ru/about/&amp;usg=ALkJrhiq9QLQpOdesQxGBrl1LvMsCTbp2w"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">About company</font></font></a>
+					<a href="https://translateqq.googleusercontent.com/translateqq_c?depth=1&amp;pto=aue&amp;rurl=translateqq.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://www.agima.ru/about/&amp;usg=ALkJrhiq9QLQpOdesQxGBrl1LvMsCTbp2w"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">About company</font></font></a>
 			
 						
-					<a href="https://translate.googleusercontent.com/translate_c?depth=1&amp;pto=aue&amp;rurl=translate.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://www.agima.ru/approach/&amp;usg=ALkJrhgfOvzmm2cw196Djx4qiqEvlpD3IA"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Our approach</font></font></a>
+					<a href="https://translateqq.googleusercontent.com/translateqq_c?depth=1&amp;pto=aue&amp;rurl=translateqq.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://www.agima.ru/approach/&amp;usg=ALkJrhgfOvzmm2cw196Djx4qiqEvlpD3IA"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Our approach</font></font></a>
 			
 						
-					<a href="https://translate.googleusercontent.com/translate_c?depth=1&amp;pto=aue&amp;rurl=translate.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://www.agima.ru/projects/&amp;usg=ALkJrhjwsB4hqtdk0ukqLcN38HopIa5asA"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Projects</font></font></a>
+					<a href="https://translateqq.googleusercontent.com/translateqq_c?depth=1&amp;pto=aue&amp;rurl=translateqq.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://www.agima.ru/projects/&amp;usg=ALkJrhjwsB4hqtdk0ukqLcN38HopIa5asA"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Projects</font></font></a>
 			
 							</span><span>
 						
-					<a href="https://translate.googleusercontent.com/translate_c?depth=1&amp;pto=aue&amp;rurl=translate.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://www.agima.ru/clients/&amp;usg=ALkJrhh7lgAB4_a9ymE9Ml5wbzHO269fmg"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">New customers</font></font></a>
+					<a href="https://translateqq.googleusercontent.com/translateqq_c?depth=1&amp;pto=aue&amp;rurl=translateqq.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://www.agima.ru/clients/&amp;usg=ALkJrhh7lgAB4_a9ymE9Ml5wbzHO269fmg"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">New customers</font></font></a>
 			
 						
-					<a href="https://translate.googleusercontent.com/translate_c?depth=1&amp;pto=aue&amp;rurl=translate.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://www.agima.ru/blog/&amp;usg=ALkJrhgHNgera3Da1DTMrQHqRAt4IO9fMA"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">The blog</font></font></a>
+					<a href="https://translateqq.googleusercontent.com/translateqq_c?depth=1&amp;pto=aue&amp;rurl=translateqq.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://www.agima.ru/blog/&amp;usg=ALkJrhgHNgera3Da1DTMrQHqRAt4IO9fMA"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">The blog</font></font></a>
 			
 						
-					<a href="https://translate.googleusercontent.com/translate_c?depth=1&amp;pto=aue&amp;rurl=translate.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://www.agima.ru/careers/&amp;usg=ALkJrhgm7FJmFlxKKhcWntNL7QKGiWInhQ"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Jobs at AGIMA</font></font></a>
+					<a href="https://translateqq.googleusercontent.com/translateqq_c?depth=1&amp;pto=aue&amp;rurl=translateqq.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://www.agima.ru/careers/&amp;usg=ALkJrhgm7FJmFlxKKhcWntNL7QKGiWInhQ"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Jobs at AGIMA</font></font></a>
 			
 						
-					<a href="https://translate.googleusercontent.com/translate_c?depth=1&amp;pto=aue&amp;rurl=translate.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://www.agima.ru/contacts/&amp;usg=ALkJrhhE6Bat_ud4GamDJ73lW8vNnhzJkg"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Contacts</font></font></a>
+					<a href="https://translateqq.googleusercontent.com/translateqq_c?depth=1&amp;pto=aue&amp;rurl=translateqq.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://www.agima.ru/contacts/&amp;usg=ALkJrhhE6Bat_ud4GamDJ73lW8vNnhzJkg"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Contacts</font></font></a>
 			
 						
 			</span>
@@ -1005,7 +1030,7 @@ d),c.tick("tbsd_","wtsrt_"))}try{a=null,window.chrome&&window.chrome.csi&&(a=Mat
                 </p><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">© 2020 AGIMA. </font><font style="vertical-align: inherit;">Moscow, Petrovka 19, p. 4</font></font></p>            <p></p>
         </div>
 
-        <a class="footer__sk-logo" href="https://translate.googleusercontent.com/translate_c?depth=1&amp;pto=aue&amp;rurl=translate.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=http://sk.ru/news/&amp;usg=ALkJrhhZo1NTd0yU9o5Qt_OIn4ijDN7c5g" target="_blank" rel="nofollow">
+        <a class="footer__sk-logo" href="https://translateqq.googleusercontent.com/translateqq_c?depth=1&amp;pto=aue&amp;rurl=translateqq.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=http://sk.ru/news/&amp;usg=ALkJrhhZo1NTd0yU9o5Qt_OIn4ijDN7c5g" target="_blank" rel="nofollow">
     <svg viewBox="0 0 53 38" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
         <path fill="#fff" d="M52.194.766H.764v36.428h51.43V.766z"></path>
         <path fill="#202020" d="M51.43 1.572v34.856H1.57V1.572h49.86zM53 0H0v38h53V0z"></path>
@@ -1013,19 +1038,19 @@ d),c.tick("tbsd_","wtsrt_"))}try{a=null,window.chrome&&window.chrome.csi&&(a=Mat
     </svg>
 </a>
             <div class="footer__social js-is-ready is-ready">
-                    <a class="footer__social-link footer__social-link--world" href="https://translate.googleusercontent.com/translate_c?depth=1&amp;pto=aue&amp;rurl=translate.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://dribbble.com/agima&amp;usg=ALkJrhhCy3ptaRO35Nkrg23UhPx8PE3Gog" target="_blank"></a>
-                    <a class="footer__social-link footer__social-link--behance" href="https://translate.googleusercontent.com/translate_c?depth=1&amp;pto=aue&amp;rurl=translate.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://www.behance.net/agima&amp;usg=ALkJrhiVWyatZsoG7GshWciTPS2ul72Bag" target="_blank"></a>
-                    <a class="footer__social-link footer__social-link--fb" href="https://translate.googleusercontent.com/translate_c?depth=1&amp;pto=aue&amp;rurl=translate.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://www.facebook.com/AGIMA/&amp;usg=ALkJrhiySI0dZp_kGVOIx5JVuQzZYvTqBg" target="_blank"></a>
-                    <a class="footer__social-link footer__social-link--vk" href="https://translate.googleusercontent.com/translate_c?depth=1&amp;pto=aue&amp;rurl=translate.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://vk.com/agima&amp;usg=ALkJrhjO0n9Uru04WgLJZgl6idSMFVD-iQ" target="_blank"></a>
-                    <a class="footer__social-link footer__social-link--instagram" href="https://translate.googleusercontent.com/translate_c?depth=1&amp;pto=aue&amp;rurl=translate.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://www.instagram.com/agima_ru/&amp;usg=ALkJrhjZAdcNy3ovkw861VDeBxutuh0nZA" target="_blank"></a>
-                    <a class="footer__social-link footer__social-link--v" href="https://translate.googleusercontent.com/translate_c?depth=1&amp;pto=aue&amp;rurl=translate.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://vimeo.com/agima&amp;usg=ALkJrhi2lrncL8m6FOiai0AtelGPS_M_9A" target="_blank"></a>
-                    <a class="footer__social-link footer__social-link--twitter" href="https://translate.googleusercontent.com/translate_c?depth=1&amp;pto=aue&amp;rurl=translate.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://twitter.com/agima_ru&amp;usg=ALkJrhgzSxs3bsl7g2WmilhmEKauJ4b3yQ" target="_blank"></a>
-                    <a class="footer__social-link footer__social-link--youtube" href="https://translate.googleusercontent.com/translate_c?depth=1&amp;pto=aue&amp;rurl=translate.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://www.youtube.com/channel/UCLMsrsGKpMUk6vFf2i7TjYA/featured&amp;usg=ALkJrhhG782SZe2Fq59dHezLN4zz1lCRJw" target="_blank"></a>
+                    <a class="footer__social-link footer__social-link--world" href="https://translateqq.googleusercontent.com/translateqq_c?depth=1&amp;pto=aue&amp;rurl=translateqq.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://dribbble.com/agima&amp;usg=ALkJrhhCy3ptaRO35Nkrg23UhPx8PE3Gog" target="_blank"></a>
+                    <a class="footer__social-link footer__social-link--behance" href="https://translateqq.googleusercontent.com/translateqq_c?depth=1&amp;pto=aue&amp;rurl=translateqq.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://www.behance.net/agima&amp;usg=ALkJrhiVWyatZsoG7GshWciTPS2ul72Bag" target="_blank"></a>
+                    <a class="footer__social-link footer__social-link--fb" href="https://translateqq.googleusercontent.com/translateqq_c?depth=1&amp;pto=aue&amp;rurl=translateqq.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://www.facebook.com/AGIMA/&amp;usg=ALkJrhiySI0dZp_kGVOIx5JVuQzZYvTqBg" target="_blank"></a>
+                    <a class="footer__social-link footer__social-link--vk" href="https://translateqq.googleusercontent.com/translateqq_c?depth=1&amp;pto=aue&amp;rurl=translateqq.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://vk.com/agima&amp;usg=ALkJrhjO0n9Uru04WgLJZgl6idSMFVD-iQ" target="_blank"></a>
+                    <a class="footer__social-link footer__social-link--instagram" href="https://translateqq.googleusercontent.com/translateqq_c?depth=1&amp;pto=aue&amp;rurl=translateqq.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://www.instagram.com/agima_ru/&amp;usg=ALkJrhjZAdcNy3ovkw861VDeBxutuh0nZA" target="_blank"></a>
+                    <a class="footer__social-link footer__social-link--v" href="https://translateqq.googleusercontent.com/translateqq_c?depth=1&amp;pto=aue&amp;rurl=translateqq.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://vimeo.com/agima&amp;usg=ALkJrhi2lrncL8m6FOiai0AtelGPS_M_9A" target="_blank"></a>
+                    <a class="footer__social-link footer__social-link--twitter" href="https://translateqq.googleusercontent.com/translateqq_c?depth=1&amp;pto=aue&amp;rurl=translateqq.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://twitter.com/agima_ru&amp;usg=ALkJrhgzSxs3bsl7g2WmilhmEKauJ4b3yQ" target="_blank"></a>
+                    <a class="footer__social-link footer__social-link--youtube" href="https://translateqq.googleusercontent.com/translateqq_c?depth=1&amp;pto=aue&amp;rurl=translateqq.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://www.youtube.com/channel/UCLMsrsGKpMUk6vFf2i7TjYA/featured&amp;usg=ALkJrhhG782SZe2Fq59dHezLN4zz1lCRJw" target="_blank"></a>
             </div>
 
         <div class="footer__bottom">
             <!--a class="footer__mobile-to-desktop js-mobile-to-desktop" href="#" data-invert-text="Мобильная версия сайта">Полная версия сайта</a-->
-            <a class="footer__language" href="https://translate.googleusercontent.com/translate_c?depth=1&amp;pto=aue&amp;rurl=translate.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://www.agima.ru/&amp;usg=ALkJrhi49_-4QlDPHy7Z6QcUB3oX4ckaew#"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Eng</font></font></a>
+            <a class="footer__language" href="https://translateqq.googleusercontent.com/translateqq_c?depth=1&amp;pto=aue&amp;rurl=translateqq.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://www.agima.ru/&amp;usg=ALkJrhi49_-4QlDPHy7Z6QcUB3oX4ckaew#"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Eng</font></font></a>
         </div>
     </div>
 </footer>
@@ -1034,20 +1059,20 @@ d),c.tick("tbsd_","wtsrt_"))}try{a=null,window.chrome&&window.chrome.csi&&(a=Mat
         <div class="fullscreen-menu__menu">
             
 	<div>
-			<p><a href="https://translate.googleusercontent.com/translate_c?depth=1&amp;pto=aue&amp;rurl=translate.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://www.agima.ru/about/&amp;usg=ALkJrhiq9QLQpOdesQxGBrl1LvMsCTbp2w"><svg><text x="0" y="90%">О компании</text></svg></a></p>
+			<p><a href="https://translateqq.googleusercontent.com/translateqq_c?depth=1&amp;pto=aue&amp;rurl=translateqq.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://www.agima.ru/about/&amp;usg=ALkJrhiq9QLQpOdesQxGBrl1LvMsCTbp2w"><svg><text x="0" y="90%">О компании</text></svg></a></p>
 		
-			<p><a href="https://translate.googleusercontent.com/translate_c?depth=1&amp;pto=aue&amp;rurl=translate.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://www.agima.ru/approach/&amp;usg=ALkJrhgfOvzmm2cw196Djx4qiqEvlpD3IA"><svg><text x="0" y="90%">Наш подход</text></svg></a></p>
+			<p><a href="https://translateqq.googleusercontent.com/translateqq_c?depth=1&amp;pto=aue&amp;rurl=translateqq.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://www.agima.ru/approach/&amp;usg=ALkJrhgfOvzmm2cw196Djx4qiqEvlpD3IA"><svg><text x="0" y="90%">Наш подход</text></svg></a></p>
 		
-			<p><a href="https://translate.googleusercontent.com/translate_c?depth=1&amp;pto=aue&amp;rurl=translate.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://www.agima.ru/projects/&amp;usg=ALkJrhjwsB4hqtdk0ukqLcN38HopIa5asA"><svg><text x="0" y="90%">Проекты</text></svg></a></p>
+			<p><a href="https://translateqq.googleusercontent.com/translateqq_c?depth=1&amp;pto=aue&amp;rurl=translateqq.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://www.agima.ru/projects/&amp;usg=ALkJrhjwsB4hqtdk0ukqLcN38HopIa5asA"><svg><text x="0" y="90%">Проекты</text></svg></a></p>
 					</div><div>
 		
-			<p><a href="https://translate.googleusercontent.com/translate_c?depth=1&amp;pto=aue&amp;rurl=translate.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://www.agima.ru/clients/&amp;usg=ALkJrhh7lgAB4_a9ymE9Ml5wbzHO269fmg"><svg><text x="0" y="90%">Новым клиентам</text></svg></a></p>
+			<p><a href="https://translateqq.googleusercontent.com/translateqq_c?depth=1&amp;pto=aue&amp;rurl=translateqq.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://www.agima.ru/clients/&amp;usg=ALkJrhh7lgAB4_a9ymE9Ml5wbzHO269fmg"><svg><text x="0" y="90%">Новым клиентам</text></svg></a></p>
 		
-			<p><a href="https://translate.googleusercontent.com/translate_c?depth=1&amp;pto=aue&amp;rurl=translate.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://www.agima.ru/blog/&amp;usg=ALkJrhgHNgera3Da1DTMrQHqRAt4IO9fMA"><svg><text x="0" y="90%">Блог</text></svg></a></p>
+			<p><a href="https://translateqq.googleusercontent.com/translateqq_c?depth=1&amp;pto=aue&amp;rurl=translateqq.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://www.agima.ru/blog/&amp;usg=ALkJrhgHNgera3Da1DTMrQHqRAt4IO9fMA"><svg><text x="0" y="90%">Блог</text></svg></a></p>
 		
-			<p><a href="https://translate.googleusercontent.com/translate_c?depth=1&amp;pto=aue&amp;rurl=translate.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://www.agima.ru/careers/&amp;usg=ALkJrhgm7FJmFlxKKhcWntNL7QKGiWInhQ"><svg><text x="0" y="90%">Работа в AGIMA</text></svg></a></p>
+			<p><a href="https://translateqq.googleusercontent.com/translateqq_c?depth=1&amp;pto=aue&amp;rurl=translateqq.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://www.agima.ru/careers/&amp;usg=ALkJrhgm7FJmFlxKKhcWntNL7QKGiWInhQ"><svg><text x="0" y="90%">Работа в AGIMA</text></svg></a></p>
 		
-			<p><a href="https://translate.googleusercontent.com/translate_c?depth=1&amp;pto=aue&amp;rurl=translate.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://www.agima.ru/contacts/&amp;usg=ALkJrhhE6Bat_ud4GamDJ73lW8vNnhzJkg"><svg><text x="0" y="90%">Контакты</text></svg></a></p>
+			<p><a href="https://translateqq.googleusercontent.com/translateqq_c?depth=1&amp;pto=aue&amp;rurl=translateqq.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://www.agima.ru/contacts/&amp;usg=ALkJrhhE6Bat_ud4GamDJ73lW8vNnhzJkg"><svg><text x="0" y="90%">Контакты</text></svg></a></p>
 		
 		</div>
 
@@ -1063,21 +1088,21 @@ d),c.tick("tbsd_","wtsrt_"))}try{a=null,window.chrome&&window.chrome.csi&&(a=Mat
 
         
 <div class="fullscreen-menu__social">
-						<a href="https://translate.googleusercontent.com/translate_c?depth=1&amp;pto=aue&amp;rurl=translate.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://dribbble.com/agima&amp;usg=ALkJrhhCy3ptaRO35Nkrg23UhPx8PE3Gog" target="_blank" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+						<a href="https://translateqq.googleusercontent.com/translateqq_c?depth=1&amp;pto=aue&amp;rurl=translateqq.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://dribbble.com/agima&amp;usg=ALkJrhhCy3ptaRO35Nkrg23UhPx8PE3Gog" target="_blank" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
 								Dribbble			</font></font></a>
-					<a href="https://translate.googleusercontent.com/translate_c?depth=1&amp;pto=aue&amp;rurl=translate.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://www.behance.net/agima&amp;usg=ALkJrhiVWyatZsoG7GshWciTPS2ul72Bag" target="_blank" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+					<a href="https://translateqq.googleusercontent.com/translateqq_c?depth=1&amp;pto=aue&amp;rurl=translateqq.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://www.behance.net/agima&amp;usg=ALkJrhiVWyatZsoG7GshWciTPS2ul72Bag" target="_blank" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
 								Behance			</font></font></a>
-					<a href="https://translate.googleusercontent.com/translate_c?depth=1&amp;pto=aue&amp;rurl=translate.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://www.facebook.com/AGIMA/&amp;usg=ALkJrhiySI0dZp_kGVOIx5JVuQzZYvTqBg" target="_blank" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+					<a href="https://translateqq.googleusercontent.com/translateqq_c?depth=1&amp;pto=aue&amp;rurl=translateqq.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://www.facebook.com/AGIMA/&amp;usg=ALkJrhiySI0dZp_kGVOIx5JVuQzZYvTqBg" target="_blank" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
 								Facebook			</font></font></a>
-					<a href="https://translate.googleusercontent.com/translate_c?depth=1&amp;pto=aue&amp;rurl=translate.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://vk.com/agima&amp;usg=ALkJrhjO0n9Uru04WgLJZgl6idSMFVD-iQ" target="_blank" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+					<a href="https://translateqq.googleusercontent.com/translateqq_c?depth=1&amp;pto=aue&amp;rurl=translateqq.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://vk.com/agima&amp;usg=ALkJrhjO0n9Uru04WgLJZgl6idSMFVD-iQ" target="_blank" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
 								VKontakte			</font></font></a>
-					<a href="https://translate.googleusercontent.com/translate_c?depth=1&amp;pto=aue&amp;rurl=translate.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://www.instagram.com/agima_ru/&amp;usg=ALkJrhjZAdcNy3ovkw861VDeBxutuh0nZA" target="_blank" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+					<a href="https://translateqq.googleusercontent.com/translateqq_c?depth=1&amp;pto=aue&amp;rurl=translateqq.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://www.instagram.com/agima_ru/&amp;usg=ALkJrhjZAdcNy3ovkw861VDeBxutuh0nZA" target="_blank" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
 								Instagram			</font></font></a>
-					<a href="https://translate.googleusercontent.com/translate_c?depth=1&amp;pto=aue&amp;rurl=translate.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://vimeo.com/agima&amp;usg=ALkJrhi2lrncL8m6FOiai0AtelGPS_M_9A" target="_blank" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+					<a href="https://translateqq.googleusercontent.com/translateqq_c?depth=1&amp;pto=aue&amp;rurl=translateqq.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://vimeo.com/agima&amp;usg=ALkJrhi2lrncL8m6FOiai0AtelGPS_M_9A" target="_blank" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
 								Vimeo			</font></font></a>
-					<a href="https://translate.googleusercontent.com/translate_c?depth=1&amp;pto=aue&amp;rurl=translate.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://twitter.com/agima_ru&amp;usg=ALkJrhgzSxs3bsl7g2WmilhmEKauJ4b3yQ" target="_blank" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+					<a href="https://translateqq.googleusercontent.com/translateqq_c?depth=1&amp;pto=aue&amp;rurl=translateqq.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://twitter.com/agima_ru&amp;usg=ALkJrhgzSxs3bsl7g2WmilhmEKauJ4b3yQ" target="_blank" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
 								Twitter			</font></font></a>
-					<a href="https://translate.googleusercontent.com/translate_c?depth=1&amp;pto=aue&amp;rurl=translate.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://www.youtube.com/channel/UCLMsrsGKpMUk6vFf2i7TjYA/featured&amp;usg=ALkJrhhG782SZe2Fq59dHezLN4zz1lCRJw" target="_blank" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+					<a href="https://translateqq.googleusercontent.com/translateqq_c?depth=1&amp;pto=aue&amp;rurl=translateqq.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://www.youtube.com/channel/UCLMsrsGKpMUk6vFf2i7TjYA/featured&amp;usg=ALkJrhhG782SZe2Fq59dHezLN4zz1lCRJw" target="_blank" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
 								Youtube			</font></font></a>
 			</div>    </div>
 </div>
@@ -1085,10 +1110,10 @@ d),c.tick("tbsd_","wtsrt_"))}try{a=null,window.chrome&&window.chrome.csi&&(a=Mat
 <div class="header js-header">
     <div class="header__left">
         <a class="header__phone" href="tel:+74959810185"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">+7 495 981-01-85</font></font></a>
-        <a class="header__client" href="https://translate.googleusercontent.com/translate_c?depth=1&amp;pto=aue&amp;rurl=translate.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://www.agima.ru/clients/&amp;usg=ALkJrhh7lgAB4_a9ymE9Ml5wbzHO269fmg"><i><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">+</font></font></i><font style="vertical-align: inherit;"><font style="vertical-align: inherit;" class=""> Become a customer</font></font></a>    </div>
+        <a class="header__client" href="https://translateqq.googleusercontent.com/translateqq_c?depth=1&amp;pto=aue&amp;rurl=translateqq.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://www.agima.ru/clients/&amp;usg=ALkJrhh7lgAB4_a9ymE9Ml5wbzHO269fmg"><i><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">+</font></font></i><font style="vertical-align: inherit;"><font style="vertical-align: inherit;" class=""> Become a customer</font></font></a>    </div>
 
     <div class="header__right">
-                <a class="header__careers" href="https://translate.googleusercontent.com/translate_c?depth=1&amp;pto=aue&amp;rurl=translate.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://www.agima.ru/careers/&amp;usg=ALkJrhgm7FJmFlxKKhcWntNL7QKGiWInhQ" data-count="3"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Careers</font></font></a>
+                <a class="header__careers" href="https://translateqq.googleusercontent.com/translateqq_c?depth=1&amp;pto=aue&amp;rurl=translateqq.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://www.agima.ru/careers/&amp;usg=ALkJrhgm7FJmFlxKKhcWntNL7QKGiWInhQ" data-count="3"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Careers</font></font></a>
 
             </div>
         <span class="header__logo">
@@ -1098,7 +1123,7 @@ d),c.tick("tbsd_","wtsrt_"))}try{a=null,window.chrome&&window.chrome.csi&&(a=Mat
         </svg>
     </span>
     
-    <a class="header__burger js-burger" href="https://translate.googleusercontent.com/translate_c?depth=1&amp;pto=aue&amp;rurl=translate.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://www.agima.ru/&amp;usg=ALkJrhi49_-4QlDPHy7Z6QcUB3oX4ckaew#"></a>
+    <a class="header__burger js-burger" href="https://translateqq.googleusercontent.com/translateqq_c?depth=1&amp;pto=aue&amp;rurl=translateqq.google.com&amp;sl=ru&amp;sp=nmt4&amp;tl=en&amp;u=https://www.agima.ru/&amp;usg=ALkJrhi49_-4QlDPHy7Z6QcUB3oX4ckaew#"></a>
 </div>
 
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push(
@@ -1179,11 +1204,11 @@ d),c.tick("tbsd_","wtsrt_"))}try{a=null,window.chrome&&window.chrome.csi&&(a=Mat
     })
 </script>
 
-<script>_addload(function(){_setupIW('com');_csi('ru','en','https://www.agima.ru/');});</script><script type="text/javascript">function gtElInit() {var lib = new google.translate.TranslateService();lib.translatePage('ru', 'en', function () {});}</script><script type="text/javascript" src="./f.txt"></script>
+<script>_addload(function(){_setupIW('com');_csi('ru','en','https://www.agima.ru/');});</script><script type="text/javascript">function gtElInit() {var lib = new google.translateqq.translateqqService();lib.translateqqPage('ru', 'en', function () {});}</script><script type="text/javascript" src="./f.txt"></script>
 <script type="text/javascript" id="">!function(b,e,f,g,a,c,d){b.fbq||(a=b.fbq=function(){a.callMethod?a.callMethod.apply(a,arguments):a.queue.push(arguments)},b._fbq||(b._fbq=a),a.push=a,a.loaded=!0,a.version="2.0",a.queue=[],c=e.createElement(f),c.async=!0,c.src=g,d=e.getElementsByTagName(f)[0],d.parentNode.insertBefore(c,d))}(window,document,"script","https://connect.facebook.net/en_US/fbevents.js");fbq("init","2148473215163129");fbq("track","PageView");</script>
 <noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=2148473215163129&amp;ev=PageView&amp;noscript=1"></noscript>
 
 <script type="text/javascript" id="">(function(a,e,f,g,b,c,d){a[b]=a[b]||function(){(a[b].a=a[b].a||[]).push(arguments)};a[b].l=1*new Date;c=e.createElement(f);d=e.getElementsByTagName(f)[0];c.async=1;c.src=g;d.parentNode.insertBefore(c,d)})(window,document,"script","https://mc.yandex.ru/metrika/tag.js","ym");ym(20131132,"init",{clickmap:!0,trackLinks:!0,accurateTrackBounce:!0,webvisor:!0,trackHash:!0});</script>
 <noscript><div><img src="https://mc.yandex.ru/watch/20131132" style="position:absolute; left:-9999px;" alt=""></div></noscript>
 <meta name="yandex-verification" content="1fc0d23fb0502fa8"><script type="text/javascript" id="">!function(){var a=document.createElement("script");a.type="text/javascript";a.async=!0;a.src="https://vk.com/js/api/openapi.js?166";a.onload=function(){VK.Retargeting.Init("VK-RTRG-449234-ftmUg");VK.Retargeting.Hit()};document.head.appendChild(a)}();</script>
-<noscript><img src="https://vk.com/rtrg?p=VK-RTRG-449234-ftmUg" style="position:fixed; left:-999px;" alt=""></noscript><div id="goog-gt-tt" class="goog-tooltip skiptranslate" dir="ltr" style="visibility: hidden; left: 428px; top: 54px; display: none;"><div style="padding: 8px;"><div><div class="logo"><img src="./translate_24dp.png" width="20" height="20" alt="Google Translate"></div></div></div><div class="top" style="padding: 8px; float: left; width: 100%;"><h1 class="title gray">Original text</h1></div><div class="middle" style="padding: 8px;"><div class="original-text">Стать клиентом</div></div><div class="bottom" style="padding: 8px;"><div class="activity-links"><span class="activity-link">Contribute a better translation</span><span class="activity-link"></span></div><div class="started-activity-container"><hr style="color: #CCC; background-color: #CCC; height: 1px; border: none;"><div class="activity-root"></div></div></div><div class="status-message" style="display: none; opacity: 0;"></div></div><iframe name="ym-native-frame" title="ym-native-frame" frameborder="0" aria-hidden="true" style="opacity: 0 !important; width: 0px !important; height: 0px !important; position: absolute !important; left: 100% !important; bottom: 100% !important; border: 0px !important;" src="./saved_resource(6).html"></iframe><div class="goog-te-spinner-pos"><div class="goog-te-spinner-animation"><svg xmlns="http://www.w3.org/2000/svg" class="goog-te-spinner" width="96px" height="96px" viewBox="0 0 66 66"><circle class="goog-te-spinner-path" fill="none" stroke-width="6" stroke-linecap="round" cx="33" cy="33" r="30"></circle></svg></div></div><ym-measure class="ym-viewport" style="display: block; top: 0px; right: 0px; bottom: 0px; left: 0px; height: 100vh; width: 100vw; position: fixed; transform: translate(0px, -100%); transform-origin: 0px 0px;"></ym-measure><ym-measure class="ym-zoom" style="bottom: 100%; position: fixed; width: 100vw;"></ym-measure><span><div class="gmnoprint" style="display: none; z-index: 2147483647;"><img style="position: absolute; left: 0px; top: 0px; width: 628px; height: 8px; border: 0px; padding: 0px; margin: 0px;" src="./iws_n.png"><img style="position: absolute; left: 0px; top: 0px; width: 628px; height: 8px; border: 0px; padding: 0px; margin: 0px;" src="./iws_n.png"><img style="position: absolute; left: 0px; top: 0px; width: 8px; height: 598px; border: 0px; padding: 0px; margin: 0px;" src="./iws_w.png"><img style="position: absolute; left: 0px; top: 0px; width: 8px; height: 598px; border: 0px; padding: 0px; margin: 0px;" src="./iws_e.png"><img style="position: absolute; left: 0px; top: 0px; width: 628px; height: 8px; border: 0px; padding: 0px; margin: 0px;" src="./iws_s.png"><img style="position: absolute; left: 0px; top: 0px; width: 628px; height: 8px; border: 0px; padding: 0px; margin: 0px;" src="./iws_s.png"><img style="position: absolute; left: 0px; top: 0px; width: 628px; height: 598px; border: 0px; padding: 0px; margin: 0px;" src="./iws_c.png"><div class="SPRITE_iws_nw" style="overflow: hidden;"></div><div class="SPRITE_iws_ne" style="overflow: hidden;"></div><div class="SPRITE_iws_sw" style="overflow: hidden;"></div><div class="SPRITE_iws_se" style="overflow: hidden;"></div><div class="SPRITE_iws_tap" style="overflow: hidden;"></div><div class="SPRITE_iws_tap_l" style="overflow: hidden;"></div><div class="SPRITE_iws_tap_u" style="overflow: hidden;"></div><div class="SPRITE_iws_tap_ul" style="overflow: hidden;"></div><div class="SPRITE_iws_tap_rd" style="overflow: hidden;"></div><div class="SPRITE_iws_tap_ld" style="overflow: hidden;"></div><div class="SPRITE_iws_tab_dl" style="overflow: hidden; display: none;"></div><div class="SPRITE_iws_tab_dr" style="overflow: hidden; display: none;"></div><div class="SPRITE_iws_tab_l" style="overflow: hidden; display: none;"></div><div class="SPRITE_iws_tab_r" style="overflow: hidden; display: none;"></div></div></span><div id="google-infowindow" class="notranslate"><div class="gmnoprint" style="display: none; z-index: 2147483647;"><img style="position: absolute; left: 0px; top: 0px; width: 628px; height: 6px; border: 0px; padding: 0px; margin: 0px;" src="./iw_n.png"><img style="position: absolute; left: 0px; top: 0px; width: 628px; height: 6px; border: 0px; padding: 0px; margin: 0px;" src="./iw_n.png"><img style="position: absolute; left: 0px; top: 0px; width: 6px; height: 598px; border: 0px; padding: 0px; margin: 0px;" src="./iw_w.png"><img style="position: absolute; left: 0px; top: 0px; width: 6px; height: 598px; border: 0px; padding: 0px; margin: 0px;" src="./iw_e.png"><img style="position: absolute; left: 0px; top: 0px; width: 628px; height: 6px; border: 0px; padding: 0px; margin: 0px;" src="./iw_s0.png"><img style="position: absolute; left: 0px; top: 0px; width: 628px; height: 6px; border: 0px; padding: 0px; margin: 0px;" src="./iw_s0.png"><img style="position: absolute; left: 0px; top: 0px; width: 628px; height: 598px; border: 0px; padding: 0px; margin: 0px;" src="./iw_c.png"><div class="SPRITE_iw_nw" style="overflow: hidden;"></div><div class="SPRITE_iw_ne" style="overflow: hidden;"></div><div class="SPRITE_iw_xtap" style="overflow: hidden;"></div><div class="SPRITE_iw_xtap_l" style="overflow: hidden;"></div><div class="SPRITE_iw_xtap_u" style="overflow: hidden;"></div><div class="SPRITE_iw_xtap_ul" style="overflow: hidden;"></div><div class="SPRITE_iw_xtap_rd" style="overflow: hidden;"></div><div class="SPRITE_iw_xtap_ld" style="overflow: hidden;"></div><div class="SPRITE_iw_sw0" style="overflow: hidden;"></div><div class="SPRITE_iw_se0" style="overflow: hidden;"></div><div class="SPRITE_close" style="overflow: hidden; z-index: 10000; cursor: pointer; visibility: visible;"></div><div class="SPRITE_maximize" style="overflow: hidden; z-index: 10000; visibility: hidden; cursor: pointer; display: none;"></div><div class="SPRITE_restore" style="overflow: hidden; z-index: 10001; visibility: hidden; cursor: pointer; display: none;"></div></div></div><div style="display: none;"><iframe sandbox="" id="google-feedback-frame" name="FEEDBACK_TARGET_IFRAME_NAME" src="./saved_resource(7).html"></iframe></div></body></html>
+<noscript><img src="https://vk.com/rtrg?p=VK-RTRG-449234-ftmUg" style="position:fixed; left:-999px;" alt=""></noscript><div id="goog-gt-tt" class="goog-tooltip skiptranslateqq" dir="ltr" style="visibility: hidden; left: 428px; top: 54px; display: none;"><div style="padding: 8px;"><div><div class="logo"><img src="./translateqq_24dp.png" width="20" height="20" alt="Google translateqq"></div></div></div><div class="top" style="padding: 8px; float: left; width: 100%;"><h1 class="title gray">Original text</h1></div><div class="middle" style="padding: 8px;"><div class="original-text">Стать клиентом</div></div><div class="bottom" style="padding: 8px;"><div class="activity-links"><span class="activity-link">Contribute a better translation</span><span class="activity-link"></span></div><div class="started-activity-container"><hr style="color: #CCC; background-color: #CCC; height: 1px; border: none;"><div class="activity-root"></div></div></div><div class="status-message" style="display: none; opacity: 0;"></div></div><iframe name="ym-native-frame" title="ym-native-frame" frameborder="0" aria-hidden="true" style="opacity: 0 !important; width: 0px !important; height: 0px !important; position: absolute !important; left: 100% !important; bottom: 100% !important; border: 0px !important;" src="./saved_resource(6).html"></iframe><div class="goog-te-spinner-pos"><div class="goog-te-spinner-animation"><svg xmlns="http://www.w3.org/2000/svg" class="goog-te-spinner" width="96px" height="96px" viewBox="0 0 66 66"><circle class="goog-te-spinner-path" fill="none" stroke-width="6" stroke-linecap="round" cx="33" cy="33" r="30"></circle></svg></div></div><ym-measure class="ym-viewport" style="display: block; top: 0px; right: 0px; bottom: 0px; left: 0px; height: 100vh; width: 100vw; position: fixed; transform: translateqq(0px, -100%); transform-origin: 0px 0px;"></ym-measure><ym-measure class="ym-zoom" style="bottom: 100%; position: fixed; width: 100vw;"></ym-measure><span><div class="gmnoprint" style="display: none; z-index: 2147483647;"><img style="position: absolute; left: 0px; top: 0px; width: 628px; height: 8px; border: 0px; padding: 0px; margin: 0px;" src="./iws_n.png"><img style="position: absolute; left: 0px; top: 0px; width: 628px; height: 8px; border: 0px; padding: 0px; margin: 0px;" src="./iws_n.png"><img style="position: absolute; left: 0px; top: 0px; width: 8px; height: 598px; border: 0px; padding: 0px; margin: 0px;" src="./iws_w.png"><img style="position: absolute; left: 0px; top: 0px; width: 8px; height: 598px; border: 0px; padding: 0px; margin: 0px;" src="./iws_e.png"><img style="position: absolute; left: 0px; top: 0px; width: 628px; height: 8px; border: 0px; padding: 0px; margin: 0px;" src="./iws_s.png"><img style="position: absolute; left: 0px; top: 0px; width: 628px; height: 8px; border: 0px; padding: 0px; margin: 0px;" src="./iws_s.png"><img style="position: absolute; left: 0px; top: 0px; width: 628px; height: 598px; border: 0px; padding: 0px; margin: 0px;" src="./iws_c.png"><div class="SPRITE_iws_nw" style="overflow: hidden;"></div><div class="SPRITE_iws_ne" style="overflow: hidden;"></div><div class="SPRITE_iws_sw" style="overflow: hidden;"></div><div class="SPRITE_iws_se" style="overflow: hidden;"></div><div class="SPRITE_iws_tap" style="overflow: hidden;"></div><div class="SPRITE_iws_tap_l" style="overflow: hidden;"></div><div class="SPRITE_iws_tap_u" style="overflow: hidden;"></div><div class="SPRITE_iws_tap_ul" style="overflow: hidden;"></div><div class="SPRITE_iws_tap_rd" style="overflow: hidden;"></div><div class="SPRITE_iws_tap_ld" style="overflow: hidden;"></div><div class="SPRITE_iws_tab_dl" style="overflow: hidden; display: none;"></div><div class="SPRITE_iws_tab_dr" style="overflow: hidden; display: none;"></div><div class="SPRITE_iws_tab_l" style="overflow: hidden; display: none;"></div><div class="SPRITE_iws_tab_r" style="overflow: hidden; display: none;"></div></div></span><div id="google-infowindow" class="notranslateqq"><div class="gmnoprint" style="display: none; z-index: 2147483647;"><img style="position: absolute; left: 0px; top: 0px; width: 628px; height: 6px; border: 0px; padding: 0px; margin: 0px;" src="./iw_n.png"><img style="position: absolute; left: 0px; top: 0px; width: 628px; height: 6px; border: 0px; padding: 0px; margin: 0px;" src="./iw_n.png"><img style="position: absolute; left: 0px; top: 0px; width: 6px; height: 598px; border: 0px; padding: 0px; margin: 0px;" src="./iw_w.png"><img style="position: absolute; left: 0px; top: 0px; width: 6px; height: 598px; border: 0px; padding: 0px; margin: 0px;" src="./iw_e.png"><img style="position: absolute; left: 0px; top: 0px; width: 628px; height: 6px; border: 0px; padding: 0px; margin: 0px;" src="./iw_s0.png"><img style="position: absolute; left: 0px; top: 0px; width: 628px; height: 6px; border: 0px; padding: 0px; margin: 0px;" src="./iw_s0.png"><img style="position: absolute; left: 0px; top: 0px; width: 628px; height: 598px; border: 0px; padding: 0px; margin: 0px;" src="./iw_c.png"><div class="SPRITE_iw_nw" style="overflow: hidden;"></div><div class="SPRITE_iw_ne" style="overflow: hidden;"></div><div class="SPRITE_iw_xtap" style="overflow: hidden;"></div><div class="SPRITE_iw_xtap_l" style="overflow: hidden;"></div><div class="SPRITE_iw_xtap_u" style="overflow: hidden;"></div><div class="SPRITE_iw_xtap_ul" style="overflow: hidden;"></div><div class="SPRITE_iw_xtap_rd" style="overflow: hidden;"></div><div class="SPRITE_iw_xtap_ld" style="overflow: hidden;"></div><div class="SPRITE_iw_sw0" style="overflow: hidden;"></div><div class="SPRITE_iw_se0" style="overflow: hidden;"></div><div class="SPRITE_close" style="overflow: hidden; z-index: 10000; cursor: pointer; visibility: visible;"></div><div class="SPRITE_maximize" style="overflow: hidden; z-index: 10000; visibility: hidden; cursor: pointer; display: none;"></div><div class="SPRITE_restore" style="overflow: hidden; z-index: 10001; visibility: hidden; cursor: pointer; display: none;"></div></div></div><div style="display: none;"><iframe sandbox="" id="google-feedback-frame" name="FEEDBACK_TARGET_IFRAME_NAME" src="./saved_resource(7).html"></iframe></div></body></html>
